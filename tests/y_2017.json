@@ -1,0 +1,124 @@
+[
+  {
+    "question": "What will be the missing reversibike process from Solid to vapuor ,Solid to liquid and solid to __________ ?",
+    "choice1": "Sublimation",
+    "choice2": "Condensation",
+    "choice3": "Evaporation",
+    "choice4": "Fusion",
+    "answer": 2
+  },
+  {
+    "question": "if a = b ≠ c and α = β = γ = 90<sup>o</sup>, the crystal structure is:",
+    "choice1": "Cubic",
+    "choice2": "Tetragonal",
+    "choice3": "Orthorhombic",
+    "choice4": "Triclinic",
+    "answer": 2
+  },
+  {
+    "question": "The uncertainty principle is applied to",
+    "choice1": "aeroplance",
+    "choice2": "Cricket ball",
+    "choice3": "electron",
+    "choice4": "earth",
+    "answer": 3
+  },{
+    "question": "This is an intensive property:",
+    "choice1": "Internal Energy",
+    "choice2": "Enthalpy",
+    "choice3": "Volume",
+    "choice4": "Reflective index",
+    "answer": 4
+  },{
+    "question": "Quantum number value for 3d orbital arre:",
+    "choice1": "n=3, l=2",
+    "choice2": "n=3, l=3",
+    "choice3": "n=1 ,l=2",
+    "choice4": "n=3, l=0",
+    "answer": 1
+  },{
+    "question": "This molecule has the maximum bond angle:",
+    "choice1": "NH<sub>3</sub>",
+    "choice2": "CO<sub>2</sub>",
+    "choice3": "SO<sub>2</sub>",
+    "choice4": "H<sub>2</sub>O",
+    "answer": 2
+  },{
+    "question": "For the reversible reaction, if the cincentration of the reactant are doubled, then the equilibrium constant will :",
+    "choice1": "be halved",
+    "choice2": "remain the same",
+    "choice3": "become one-fourth",
+    "choice4": "also be doubled",
+    "answer": 2
+  },{
+    "question": "The mojority of a soution containing 4gm NaOH dissolved in 1 ml solution is:",
+    "choice1": "0.4M",
+    "choice2": "0.01",
+    "choice3": "10M",
+    "choice4": "1.0M",
+    "answer": 3
+  },{
+    "question": "A powdered solid is more reactive than its chumks due to :",
+    "choice1": "higher temperature",
+    "choice2": "higher pressure",
+    "choice3": "greater surface area",
+    "choice4": "greater volume",
+    "answer": 3
+  },{
+    "question": "The number of bond in C<sub>2</sub>H<sub>2</sub> molecule is:",
+    "choice1": "three α and one π",
+    "choice2": "three α and two π",
+    "choice3": "two α and two π",
+    "choice4": "one α and two π",
+    "answer": 2
+  },{
+    "question": "Most pf thr radiation coming out from pitchblende were:",
+    "choice1": "The proton",
+    "choice2": "Electron",
+    "choice3": "Positron",
+    "choice4": "Neutron",
+    "answer": 2
+  },{
+    "question": "The number of orbitals in each energy level in given by the formula :",
+    "choice1": "2n<sup>2</sup>",
+    "choice2": "(2l+1)",
+    "choice3": "2(2l+1)",
+    "choice4": "n<sup>2</sup>",
+    "answer": 4
+  },{
+    "question": "The energy of each quantum of radiation is directly proportional to its:",
+    "choice1": "Wavelength",
+    "choice2": "frequency",
+    "choice3": "Wave number",
+    "choice4": "source of energy",
+    "answer": 2
+  },{
+    "question": "This has five significant figure",
+    "choice1": "0.000251",
+    "choice2": "2500",
+    "choice3": "21.5210",
+    "choice4": "21.521",
+    "answer": 4
+  },{
+    "question": "The melting ponts of those substance which expends on melting increasewhen pressure is:",
+    "choice1": "decreased",
+    "choice2": "Increased",
+    "choice3": "Kept unchanged",
+    "choice4": "atmospheric",
+    "answer": 2
+  },{
+    "question": "While considering the full of significant figure the simplified resulr of 3.1+14.367 is",
+    "choice1": "17.467",
+    "choice2": "17.47",
+    "choice3": "17.50",
+    "choice4": "17.5",
+    "answer": 4
+  },{
+    "question": "The atmispheric pressure recorder in different place at the sam time are (Nathiagali=700tor,Hunza=650torr,Murree=710torr,Gilgit=600torr) water will boil first in:",
+    "choice1": "Nathiagali",
+    "choice2": "Hunza",
+    "choice3": "Muree",
+    "choice4": "Gilgit",
+    "answer": 4
+  }
+]

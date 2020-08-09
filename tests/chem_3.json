@@ -1,0 +1,356 @@
+[
+  {
+    "question": "The smallest particle of matter is",
+    "choice1": "Molecule",
+    "choice2": "Atom",
+    "choice3": "Elcetron",
+    "choice4": "Proton",
+    "answer": 2
+  },
+  {
+    "question": "The nucleus of the atom consist of :",
+    "choice1": "Electron and proton",
+    "choice2": "Electron and Neutron",
+    "choice3": "Proton and Neutron",
+    "choice4": "All of the above",
+    "answer": 3
+  },
+  {
+    "question": "Which particle is neutral?",
+    "choice1": "Electron",
+    "choice2": "Proton",
+    "choice3": "Neutron",
+    "choice4": "Nonr of these",
+    "answer": 3
+  },
+  {
+    "question": "Which particle is positive?",
+    "choice1": "Electron",
+    "choice2": "Proton",
+    "choice3": "Neutron",
+    "choice4": "Nonr of these",
+    "answer": 2
+  },{
+    "question": "Which particle is lighter atomic particle than other?",
+    "choice1": "Electron",
+    "choice2": "Proton",
+    "choice3": "Neutron",
+    "choice4": "All of above",
+    "answer": 1
+  },{
+    "question": "Which order is correct:(when< stands for lighter then)",
+    "choice1": "Electron<Proton<Neutron",
+    "choice2": "Proton<Electron<Neutron",
+    "choice3": "Neutron<Proton<Electron",
+    "choice4": "Proton<Neutron<Electron",
+    "answer": 1
+  },{
+    "question": "Which particle is negatively charged ?",
+    "choice1": "Electron",
+    "choice2": "Neutron",
+    "choice3": "Proton",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Cathode rays experiment shows the presence of:",
+    "choice1": "Electron in an atom",
+    "choice2": "Neutron in an atom",
+    "choice3": "Proton in an atom",
+    "choice4": "Nucleus in an atom",
+    "answer": 1
+  },{
+    "question": "Which rays carry a unit negative charge?",
+    "choice1": "Cathoe rays",
+    "choice2": "Gamma rays",
+    "choice3": "Anode rays",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Anode rays indicate the existence of:",
+    "choice1": "Electron of atom",
+    "choice2": "Proton of atom",
+    "choice3": "Neutron of atom",
+    "choice4": "All of these",
+    "answer": 2
+  },{
+    "question": "The e/m ratio of an electron is:",
+    "choice1": "1.75x10<sup>08</sup> Coulomb/Kg",
+    "choice2": "1.75x10<sup>10</sup> Coulomb/Kg",
+    "choice3": "1.75x10<sup>09</sup> Coulomb/Kg",
+    "choice4": "1.75x10<sup>11</sup> Coulomb/Kg",
+    "answer": 4
+  },{
+    "question": "The charge on electron is:",
+    "choice1": "1.6022x10<sup>-19</sup> Coulomb.",
+    "choice2": "1.6022x10<sup>-17</sup> Coulomb.",
+    "choice3": "1.6022x10<sup>-18</sup> Coulomb.",
+    "choice4": "1.6022x10<sup>-16</sup> Coulomb.",
+    "answer": 1
+  },{
+    "question": "The mass of an electron is :",
+    "choice1": "9.1096x10<sup>-31</sup> kg",
+    "choice2": "9.1096x10<sup>-29</sup> kg",
+    "choice3": "9.1096x10<sup>-30</sup> kg",
+    "choice4": "9.1096x10<sup>-28</sup> kg",
+    "answer": 1
+  },{
+    "question": "The mass of an proton is :",
+    "choice1": "1.6726 x 10<sup>-27</sup>kg",
+    "choice2": "1.6726 x 10<sup>-29</sup>kg",
+    "choice3": "1.6726 x 10<sup>-28</sup>kg",
+    "choice4": "1.6726 x 10<sup>-30</sup>kg",
+    "answer": 1
+  },{
+    "question": "Alpha rays consist of :",
+    "choice1": "Stream of 1H1",
+    "choice2": "Stream of electrons only",
+    "choice3": "Steam of He",
+    "choice4": "Stream of neutrons only",
+    "answer": 3
+  },{
+    "question": "Which is not a radioactive substance?",
+    "choice1": "Uranium",
+    "choice2": "Radiu,",
+    "choice3": "Thorium",
+    "choice4": "Salicon",
+    "answer": 4
+  },{
+    "question": "Alpha rays consists of:",
+    "choice1": "2 proton and 1 neutron",
+    "choice2": "2 protons and 2 neutron",
+    "choice3": "2 electrons and 1 neutron",
+    "choice4": "2 protns and 3 electrons",
+    "answer": 2
+  },{
+    "question": "The fast moving electrons like the cathode rays are:",
+    "choice1": "α - rays",
+    "choice2": "β - rays",
+    "choice3": "γ - rays",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Out of the following four particles or rays, whose velocity is about 1/10th of the velocity of Height?",
+    "choice1": "α - rays",
+    "choice2": "β - rays",
+    "choice3": "γ - rays",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Out of three radioactive rays, which travels with the velocity of light?",
+    "choice1": "α - rays",
+    "choice2": "β - rays",
+    "choice3": "γ - rays",
+    "choice4": "None of these",
+   "answer": 2
+  },{
+    "question": "The e/m ratio of β - rays resumble that of:",
+    "choice1": "Electrons",
+    "choice2": "Protons",
+    "choice3": "Neutron",
+    "choice4": "All of the above",
+    "answer": 1
+  },{
+    "question": "Which radioactive rays have greater penetrating power:",
+    "choice1": "α - rays",
+    "choice2": "β - rays",
+    "choice3": "γ - rays",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Gamma raus are emitted as:",
+    "choice1": "Protons",
+    "choice2": "Electrons",
+    "choice3": "Neutrons",
+    "choice4": "Photons",
+    "answer": 4
+  },{
+    "question": "Who discovered neutron in the nucleus?",
+    "choice1": "J.J. Thomson",
+    "choice2": "Chadwick",
+    "choice3": "Crook's",
+    "choice4": "J.perrin",
+    "answer": 2
+  },{
+    "question": "Complete the equation <sub>4</sub>Be<sup>9</sup> + <sub>2</sub>He<sup>4</sup> -------> ____________ ?",
+    "choice1": "<sub>6</sub>C<sup>12</sup>+<sub>1</sub>H<sup>1</sup>+ O",
+    "choice2": "<sub>6</sub>C<sup>12</sup>+<sub>0</sub>n<sup>1</sup>+ O",
+    "choice3": "<sub>6</sub>C<sup>12</sup>+<sub>1</sub>e<sup>o</sup>+ O",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "In an atom the number of protons is equal to the number of:",
+    "choice1": "Neutrons",
+    "choice2": "Electrons",
+    "choice3": "Positrons",
+    "choice4": "All of these",
+    "answer": 2
+  },{
+    "question": "Who discovered X-rays?",
+    "choice1": "Roentgen",
+    "choice2": "Max Well",
+    "choice3": "Crook",
+    "choice4": "R.A. Millkon",
+    "answer": 1
+  },{
+    "question": "The frequency of the X-rays depends on the material used as:",
+    "choice1": "Cathode",
+    "choice2": "Anode",
+    "choice3": "Electrode",
+    "choice4": "All of these",
+    "answer": 2
+  },{
+    "question": "The frequency of X-rays is:",
+    "choice1": "Very small",
+    "choice2": "very High",
+    "choice3": "Intermedite",
+    "choice4": "All of these",
+    "answer": 2
+  },{
+    "question": "Which electromegnatic radiation has greater wave length?",
+    "choice1": "Ultra Violet",
+    "choice2": "Radio wave",
+    "choice3": "x-rays",
+    "choice4": "intrared",
+    "answer": 2
+  },{
+    "question": "The number of positive charge on the nucleus of an atom an Element is called",
+    "choice1": "Atomic number",
+    "choice2": "Mo",
+    "choice3": "Atomic mass",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The number of Protons or electron is an atom is called",
+    "choice1": "Atomic Number",
+    "choice2": " Atomic mass",
+    "choice3": "Mole",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Rutherford's experiment on Sealtering of particles showed for first time that the atom has.",
+    "choice1": "Electron",
+    "choice2": "Protons",
+    "choice3": "Nucleus",
+    "choice4": "Neutrons",
+    "answer": 3
+  },{
+    "question": "Which element contains 12 protons and 12 neutrons?",
+    "choice1": "Mg",
+    "choice2": "C",
+    "choice3": "Ca",
+    "choice4": "Na",
+    "answer": 1
+  },{
+    "question": "Which element contains 12 protons and 12 neutron",
+    "choice1": "Mg",
+    "choice2": "C",
+    "choice3": "Ca",
+    "choice4": "Na",
+    "answer": 1
+  },{
+    "question": "Which element contains only one protons?",
+    "choice1": "H",
+    "choice2": "He",
+    "choice3": "Li",
+    "choice4": "Be",
+    "answer": 2
+  },{
+    "question": "Which element contains 11 protons and 12 neutrons?",
+    "choice1": "C",
+    "choice2": "Na",
+    "choice3": "K",
+    "choice4": "Ca",
+    "answer": 1
+  },{
+    "question": "Which elemnt Contains 9 protons and 9 electrons>",
+    "choice1": "F",
+    "choice2": "Cl",
+    "choice3": "K",
+    "choice4": "Al",
+    "answer": 1
+  },{
+    "question": "Which element Contains 6 electrons and 6 neutrons?",
+    "choice1": "C",
+    "choice2": "Mg",
+    "choice3": "Ca",
+    "choice4": "Cl",
+    "answer": 1
+  },{
+    "question": "α - rays are:",
+    "choice1": "Less energetic then β -rays",
+    "choice2": "More energetic then β - rays",
+    "choice3": "Equal energetic then β - rays",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Gases becomes conductor of Electricity as:",
+    "choice1": "Low pressure",
+    "choice2": "High pressure",
+    "choice3": "Intermediate Pressure",
+    "choice4": "All of the above",
+    "answer": 1
+  },{
+    "question": "The e/m for Cathode rays is always:",
+    "choice1": "Less than anode rays",
+    "choice2": "Greater than anode rays",
+    "choice3": "Equal than anode rays",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "According to de-Broglie's theory electrons,Protons and neutrons behave like:",
+    "choice1": "Waves",
+    "choice2": "Particle",
+    "choice3": "WAves as well as Partic;es",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "Red colour have wave length of :",
+    "choice1": "630----750nm",
+    "choice2": "600---630nm",
+    "choice3": "580---600nm",
+    "choice4": "510---580nm",
+    "answer": 1
+  },{
+    "question": "Orange colour have wave length of:",
+    "choice1": "630---750nm",
+    "choice2": "600---630nm",
+    "choice3": "580---600nm",
+    "choice4": "510---580nm",
+    "answer": 2
+  },{
+    "question": "Yellow colour have wave length of:",
+    "choice1": "630---750nm",
+    "choice2": "600---630nm",
+    "choice3": "580---600nm",
+    "choice4": "510---580nm",
+    "answer": 3
+  },{
+    "question": "Green colour have wave length of",
+    "choice1": "630---750nm",
+    "choice2": "600---630nm",
+    "choice3": "580---600nm",
+    "choice4": "510---580nm",
+    "answer": 4
+  },{
+    "question": "Blue colour have wave length of",
+    "choice1": "630---750nm",
+    "choice2": "600---630nm",
+    "choice3": "580---600nm",
+    "choice4": "510---580nm",
+    "answer": 2
+  },{
+    "question": "Indigo colour have wave length of",
+    "choice1": "630---750nm",
+    "choice2": "600---630nm",
+    "choice3": "580---600nm",
+    "choice4": "510---580nm",
+    "answer": 3
+  },{
+    "question": "Frequency is measured in:",
+    "choice1": "N-m",
+    "choice2": "N-Sec",
+    "choice3": "Nz",
+    "choice4": "J",
+    "answer": 2
+  }
+]

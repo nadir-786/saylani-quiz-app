@@ -1,0 +1,390 @@
+[
+  {
+    "question": "The branch of chemistry which deals with the study of the reaction rates is termed as:",
+    "choice1": "Electro chemistry",
+    "choice2": "Stiochemistry",
+    "choice3": "Chemical kinetics",
+    "choice4": "Chemical Equilibrium",
+    "answer": 3
+  },
+  {
+    "question": "The change in concentration of reactants or products per unit time are called",
+    "choice1": "Rate constant",
+    "choice2": "Chemical kinetics",
+    "choice3": "Rate of reaction",
+    "choice4": "None of the above",
+    "answer": 3
+  },
+  {
+    "question": "Increase the concentration of products or decrease the concentration of reactant per unit tie are called:",
+    "choice1": "Velocity of reaction",
+    "choice2": "Rate of reaction",
+    "choice3": "Both (a)&(b)",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "The rate of reaction or velocity of reaction also expressed by:",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub>",
+    "choice2": "<sup>dr</sup>&frasl;<sub>dt</sub>",
+    "choice3": "<sup>dp</sup>&frasl;<sub>dt</sub>",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "The rate of reaction unit is:",
+    "choice1": "mol S-1 dm<sup>3</sup>",
+    "choice2": "mol-1dm<sup>-3</sup> s",
+    "choice3": "mol.dm<sup>-3</sup>s-1",
+    "choice4": "mol.dm<sup>-3</sup>.s",
+    "answer": 3
+  },{
+    "question": "On the basis of the rate of reaction divided into following types:",
+    "choice1": "One",
+    "choice2": "Two",
+    "choice3": "Three",
+    "choice4": "Four",
+    "answer": 3
+  },{
+    "question": "Radioactive decay of elements of",
+    "choice1": "Slow reaction",
+    "choice2": "Fast reaction",
+    "choice3": "Moderate reaction",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Rusting of iron is the exampleof:",
+    "choice1": "Slow reaction",
+    "choice2": "Fast reaction",
+    "choice3": "Moderate reaction",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Diamond form carbon is the example of:",
+    "choice1": "Slow reaction",
+    "choice2": "Fast reaction",
+    "choice3": "Moderate reaction",
+    "choice4": "None of the above",
+   "answer": 1
+  },{
+    "question": "Cooking of food is the example of:",
+    "choice1": "Slow reaction",
+    "choice2": "Fast reaction",
+    "choice3": "Moderate reaction",
+    "choice4": "None of the above",
+   "answer": 3
+  },{
+    "question": "Combustion of gasoline is the example of:",
+    "choice1": "Slow reaction",
+    "choice2": "Fast reaction",
+    "choice3": "Moderate reaction",
+    "choice4": "None of the above",
+   "answer": 2
+  },{
+    "question": "The unit of molar concentration is:",
+    "choice1": "Mol<sup>2</sup>.dm<sup>-3</sup>",
+    "choice2": "Mol.dm<sup>3</sup>",
+    "choice3": "Mol.dm<sup>-3</sup>",
+    "choice4": "Mol.dm",
+    "answer": 3
+  },{
+    "question": "The rate of reaction directly proportional to molar concentration of active masses are:",
+    "choice1": "Chemical Equilibrium",
+    "choice2": "Rate law",
+    "choice3": "Boyles's law",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "The rate of chemical reaction depends upon:",
+    "choice1": "Temperature",
+    "choice2": "Concentration",
+    "choice3": "Catalyst",
+    "choice4": "All of the above",
+    "answer": 4
+  },{
+    "question": "The rate of reaction does not depends upon",
+    "choice1": "Pressure",
+    "choice2": "Temperature",
+    "choice3": "Concentration",
+    "choice4": "Catalyst",
+    "answer": 1
+  },{
+    "question": "The minimum amount of energy which molecules must have to form an activated complex is called:",
+    "choice1": "Activation energy",
+    "choice2": "Reaction enery",
+    "choice3": "Energy of ionization",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "The rate expression is:",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[Molar cone. OF R] n",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[Molar cone. OF P] n",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[Molar cone. OF R] [Molar cone. P]",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Threshold energy - Averge internal Energy = ",
+    "choice1": "Activation Energy",
+    "choice2": "Potential Energy",
+    "choice3": "Threshold energy",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Activation Energy + Average internal Energy:",
+    "choice1": "Kinetic energy",
+    "choice2": "Potential energy",
+    "choice3": "Threshold energy",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "Threshold Energy - Activaation Energy = ",
+    "choice1": "Kinetic energy",
+    "choice2": "Potential energy",
+    "choice3": "Threshold energy",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "The rate of expression for the reaction: CH<sub>3</sub>CHO -->CH<sub>4</sub> + COO is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>][O]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>3</sub> CHO]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>]",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "The rate of expression for the reaction: C<sub>2</sub>H<sub>2</sub> + 2H<sub>2</sub> --> C<sub>2</sub>H<sub>6</sub> is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>][O]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>3</sub> CHO]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>]",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "The rate of expression for the reaction: 2NO + O<sub>2</sub> --> 2NO<sub>2</sub> is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[NO]<sup>4</sup>[O<sup>w</sub>]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[NO][O<sub>2</sub>]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[NO<sub>2</sub>]<sup>2</sup>",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "The rate of expression for the reaction: PCI<sub>5</sub> --> PCI<sub>3</sub> + CI<sub>2</sub> is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[PCI<sub>5</sub>]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[PCI<sub>3</sub>][CI<sub>2</sub>]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[PCI<sub>3</sub>]",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "The rate of expression for the reaction: N<sub>2</sub>O<sub>5</sub> --> 2NO<sub>2</sub> + 1/2O<sub>2</sub> is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[N<sub>2</sub>O<sub>5</sub>]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[NO<sub>2</sub>][O<sub>2</sub>]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[NO<sub>2</sub>]<sub>2</sub>[O<sub>2</sub>]<sub>1/2</sub>",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "The rate of expression for the reaction: C<sub>2</sub>H<sub>5</sub>COOCI ---> C<sub>2</sub>H<sub>5</sub>CI + CO<sub>2</sub> is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[C<sub>2</sub>H<sub>5</sub>CI][CO<sub>2</sub>]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[C<sub>2</sub>H<sub>5</sub>CI]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[C<sub>2</sub>H<sub>5</sub>COOCI]",
+    "choice4": "None of the above",
+    "answer": 3
+    },{
+      "question": "The rate of expression for the reaction: 2CH<sub>3</sub>CHO -->2CH<sub>4</sub> + 2CO is",
+      "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>3</sub>CHO]",
+      "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>3</sub>CHO]<sup>2</sup>",
+      "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>][CO]",
+      "choice4": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>][CO]",
+      "answer": 2
+  },{
+    "question": "The rate of expression for the reaction: 2NH<sub>3</sub> -->N<sub>2</sub> + 3H<sub>2</sub> is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[NH<sub>3</sub>]<sub>2</sub>",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[N<sup>2</sup>][H<sup>2</sup>]<sub>3</sub>",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[NH<sub>3</sub>]",
+    "choice4": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[N<sub>2</sub>][H<sub>2</sub>]",
+    "answer": 1
+  },{
+    "question": "The rate of expression for the reaction: 2H<sub>2</sub>O<sub>2</sub> --> 2H<sub>2</sub>O<sub>2</sub>+ O<sub>2</sub> is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[N<sub>2</sub>O][O<sub>2</sub>]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[N<sub>2</sub>O]<sup>2</sup>[O<sub>2</sub>]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[H<sub>2</sub>O<sub>2</sub>]",
+    "choice4": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[N<sub>2</sub>O]<sup>2</sup>",
+    "answer": 4
+  },{
+    "question": "The rate of expression for the reaction: HCOOH --> CO + H<sub>2</sub>O is",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[HOOH]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CO][H<sub>2</sub>O]",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CO]",
+    "choice4": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[N<sub>2</sub>O]",
+    "answer": 1
+  },{
+    "question": "If a reaction CH<sub>3</sub>CHO --->CH<sub>4</sub> + CO is second order, which of the following expression true:",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>3</sub>CHO]",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[ CH<sub>3</sub>CHO]<sup>2</sup>",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>][CO]",
+    "choice4": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[CH<sub>4</sub>]<sup>2</sup>[CO]<sup>2</sup>",
+    "answer": 1
+  },{
+    "question": "If a reaction A + B --> P is second order which of the following expression true:",
+    "choice1": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[A}<sup>2</sup>",
+    "choice2": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[B]<sup>2</sup>",
+    "choice3": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[A][B]",
+    "choice4": "<sup>dx</sup>&frasl;<sub>dt</sub> = K[A]<sup>2</sup>[B]<sup>2</sup>",
+    "answer": 3
+  },{
+    "question": "The unit of rate constant for the first order reaction is:",
+    "choice1": "Sec<sup>-1</sup>",
+    "choice2": "mol.dm<sup>-3</sup>s<sup>-1</sup>",
+    "choice3": "mol<sup>-2</sup>.dm<sup>-3</sup>s<sup>-1</sup>",
+    "choice4": "mol<sup>-2</sup>.dm<sup>6</sup>s<sup>-1</sup>",
+    "answer": 1
+  },{
+    "question": "The unit of rate constant for the second order reaction is:",
+    "choice1": "Sec<sup>-1</sup>",
+    "choice2": "mol.dm<sup>-3</sup>s<sup>-1</sup>",
+    "choice3": "mol<sup>-2</sup>.dm<sup>-3</sup>s<sup>-1</sup>",
+    "choice4": "mol<sup>-2</sup>.dm<sup>6</sup>s<sup>-1</sup>",
+    "answer": 3
+  },{
+    "question": "The unit of rate constant for the third order reaction is:",
+    "choice1": "Sec<sup>-1</sup>",
+    "choice2": "mol.dm<sup>-3</sup>s<sup>-1</sup>",
+    "choice3": "mol<sup>-2</sup>.dm<sup>-3</sup>s<sup>-1</sup>",
+    "choice4": "mol<sup>-2</sup>.dm<sup>6</sup>s<sup>-1</sup>",
+    "answer": 4
+  },{
+    "question": "The order of the reaction , 2CH<sub>3</sub>CHO ---> 2CH<sub>4</sub> + 2O<sub>2</sub> is ",
+    "choice1": "First order",
+    "choice2": "Second order",
+    "choice3": "Third order",
+    "choice4": "Zero order",
+    "answer": 2
+  },{
+    "question": "The order of the readction H<sub>2</sub>O<sub>5</sub> ---> NO<sub>2</sub> + 1/2 O<sub>2</sub> is",
+    "choice1": "Zero order",
+    "choice2": "First order",
+    "choice3": "Second order",
+    "choice4": "third order",
+    "answer": 2
+  },{
+    "question": "The order of the reaction : 2NO + O<sub>2</sub> --> 2NO<sub>2</sub> is:",
+    "choice1": "Zero order",
+    "choice2": "First order",
+    "choice3": "Second order",
+    "choice4": "third order",
+   "answer": 4
+  },{
+    "question": "The minimum order of the reaction is:",
+    "choice1": "Zero order",
+    "choice2": "First order",
+    "choice3": "Second order",
+    "choice4": "third order",
+   "answer": 1
+  },{
+    "question": "The maximum order of the reaction is",
+    "choice1": "Zero order",
+    "choice2": "First order",
+    "choice3": "Second order",
+    "choice4": "third order",
+    "answer": 4
+  },{
+    "question": "Which of the following must be the rate determining step of a multi-step reaction is:",
+    "choice1": "First Step",
+    "choice2": "Final Step",
+    "choice3": "Fast Step",
+    "choice4": "Slowest Step",
+    "answer": 1
+  },{
+    "question": "The chemical reaction with high activation energy are:",
+    "choice1": "Slow reactions",
+    "choice2": "Fast reactions",
+    "choice3": "Moderate reaction",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "The chemical reaction with slow activation energy are:",
+    "choice1": "Slow reactions",
+    "choice2": "Fast reactions",
+    "choice3": "Moderate reaction",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "The energy of activation of a chemical reaction without a catalyst is 0kj/mol. What will be its energy of activation presence of positive catalysts.",
+    "choice1": "42 K.j mol",
+    "choice2": "55 K.j mol",
+    "choice3": "62 K.j mol",
+    "choice4": "69 K.j mol",
+    "answer": 1
+  },{
+    "question": "The energy of activation of a chemical reaction without a catalyst is 0kj/mol. What will be its energy of activation presence of negative catalysts.",
+    "choice1": "25 K.j mol",
+    "choice2": "35 K.j mol",
+    "choice3": "47 K.j mol",
+    "choice4": "59 K.j mol",
+    "answer": 4
+  },{
+    "question": "Rate of chemical reaction increase by increasing:",
+    "choice1": "Surface area",
+    "choice2": "Concentration of reaction",
+    "choice3": "Catalyst",
+    "choice4": "All of the above",
+    "answer": 4
+  },{
+    "question": "Powdered Zine is more reactive then the solid zine because",
+    "choice1": "It has more surface area",
+    "choice2": "Zinc is more reactive in powdered form",
+    "choice3": "Zinc is a transition metal",
+    "choice4": "Zinc is a electro positive element",
+    "answer": 1
+  },{
+    "question": "The rate of chemical rection increase with:",
+    "choice1": "Constant temperature",
+    "choice2": "Increase in temperature",
+    "choice3": "Decrease in temperature",
+    "choice4": "No change in temperature",
+    "answer": 2
+  },{
+    "question": "Negative Catalyts are also called as",
+    "choice1": "Indicators",
+    "choice2": "Inhabitators",
+    "choice3": "both(a + b)",
+    "choice4": "Noneof the above",
+    "answer": 2
+  },{
+    "question": "Which of the catalyst decrease the rate of reaction ",
+    "choice1": "Negative catalyst",
+    "choice2": "Psitive catalyst",
+    "choice3": "both(a + b)",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Which of the catalyst increase the rate of reaction ",
+    "choice1": "Negative catalyst",
+    "choice2": "Psitive catalyst",
+    "choice3": "both(a + b)",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "Rate = K[NO]<sup>2</sup>[O<sub>2</sub>],in concentration of O<sub>2</sub> is double the rate of reaction will also be:",
+    "choice1": "Increase 4 times",
+    "choice2": "Decrease 4 times",
+    "choice3": "Increase 2 times",
+    "choice4": "Decrease 1/2 time",
+    "answer": 3
+  },{
+    "question": "Rate = K[NO]<sup>2</sup>[O<sub>2</sub>],in concentration of NO<sub>2</sub> is double the rate of reaction will also be:",
+    "choice1": "Increase 4 times",
+    "choice2": "Decrease 4 times",
+    "choice3": "Increase 2 times",
+    "choice4": "Decrease 1/2 time",
+    "answer": 3
+  },{
+    "question": "Rate = K[N<sub>2<sub>O<sub>2</sub>]<sup>2</sup>[O<sub>2</sub>],in concentration of H<sub>2</sub>O<sub>2</sub> is double the rate of reaction will also be:",
+    "choice1": "Increase 4 times",
+    "choice2": "Decrease 4 times",
+    "choice3": "Increase 2 times",
+    "choice4": "Decrease 1/2 time",
+    "answer": 2
+  },{
+    "question": "Rate = K[C<sub>2</sub>H<sub>5</sub>COOI],in concentration of C<sub>2</sub>H<sub>5</sub>COOI is double the rate of reaction will also be:",
+    "choice1": "Increase 4 times",
+    "choice2": "Decrease 4 times",
+    "choice3": "Increase 2 times",
+    "choice4": "Decrease 1/2 time",
+    "answer": 1
+  }
+]

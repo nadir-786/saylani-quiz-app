@@ -1,0 +1,355 @@
+[
+  {
+    "question": "The study of energy transformation is called",
+    "choice1": "Thermodynamics",
+    "choice2": "Thermochemistry",
+    "choice3": "Eq chemical kinetics",
+    "choice4": "Chemical Eqilibrium",
+    "answer": 1
+  },
+  {
+    "question": "Thermo chemistry is the study of relationship between heal energy and",
+    "choice1": "Chemical energy",
+    "choice2": "Energy of activation",
+    "choice3": "Kinetic energy",
+    "choice4": "Ionization energy",
+    "answer": 1
+  },
+  {
+    "question": "The change during which is absorbed are known as",
+    "choice1": "Endothermic change",
+    "choice2": "Exothermic Change",
+    "choice3": "Chemical Change",
+    "choice4": "Physical Change",
+    "answer": 1
+  },{
+    "question": "The change during which is evolved are known as",
+    "choice1": "Endothermic change",
+    "choice2": "Exothermic Change",
+    "choice3": "Chemical Change",
+    "choice4": "Physical Change",
+    "answer": 2
+  },{
+    "question": "which is an example of endothermic?",
+    "choice1": "C+O<sub>2</sub> --> CO<sub>2</sub>",
+    "choice2": "CH<sub>2</sub>+2O<sub>2</sub> --> CO<sub>2</sub>+2H<sub>2</sub>O",
+    "choice3": "C + 2S --> Cs<sub>2</sub>",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Combustion reaction of hydrocarbon compound are:",
+    "choice1": "Exothermic reaction",
+    "choice2": "Endothermic reaction",
+    "choice3": "Both (a and b)",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Evaporation of water is:",
+    "choice1": "An exothermic change",
+    "choice2": "An endothermic change",
+    "choice3": "A process where no heat change occurs",
+    "choice4": "A process accompained by chemical",
+    "answer": 2
+  },{
+    "question": "An exothermic reaction is one in ehich reacting sibstance:",
+    "choice1": "Have more energy than the product",
+    "choice2": "Have less energy than the product",
+    "choice3": "Have some energy as the product",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "In exothermic reaction value of ΔH will be:",
+    "choice1": "Negative",
+    "choice2": "Psitive",
+    "choice3": "Zero",
+    "choice4": "Neutral",
+    "answer": 1
+  },{
+    "question": "I exodothermic reaction value of ΔH will be",
+    "choice1": "Negative",
+    "choice2": "Psitive",
+    "choice3": "Zero",
+    "choice4": "Neutral",
+    "answer": 2
+  },{
+    "question": "The S.I unit of heat and energy is :",
+    "choice1": "Joule",
+    "choice2": "Calorie",
+    "choice3": "B.T.U",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "! joule equal to",
+    "choice1": "1 N.m",
+    "choice2": "1 N-s",
+    "choice3": "1 N-mol",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "1 joule is equal to:",
+    "choice1": "1kg m<sub>2</sub>.s",
+    "choice2": "1kg.m.s",
+    "choice3": "1kg.m<sub>2</sub>",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "There are how many calories i joule? ",
+    "choice1": "4.184 J",
+    "choice2": "8.184 J",
+    "choice3": "12.184 J",
+    "choice4": "16.184 J",
+    "answer": 1
+  },{
+    "question": "There are how many calories in 1 joule",
+    "choice1": "0.238 Cals",
+    "choice2": "0.589 Cals",
+    "choice3": "0.329 CAls",
+    "choice4": "0.279 Cal",
+    "answer": 1
+  },{
+    "question": "There are how  many joules in Kilo-calories?",
+    "choice1": "4.184 x10<sub>3</sub> J",
+    "choice2": "8.184 x10<sub>3</sub> J",
+    "choice3": "12.184 x10<sub>3</sub> J",
+    "choice4": "16.184 x10<sub>3</sub> J",
+    "answer": 1
+  },{
+    "question": "A substance undergoinga a physical change is called:",
+    "choice1": "System",
+    "choice2": "Surrounding",
+    "choice3": "Compound",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The total energy contained in a system is known as its:",
+    "choice1": "Entropy",
+    "choice2": "Internal Energy",
+    "choice3": "Kinetic Enrergy",
+    "choice4": "Absolute potential energy",
+    "answer": 2
+  },{
+    "question": "Any property that depends on the state of system is called:",
+    "choice1": "enthapy",
+    "choice2": "Internal Energy",
+    "choice3": "Free energy",
+    "choice4": "None of these",
+    "answer": 4
+  },{
+    "question": "Which is not a state function?",
+    "choice1": "Temperataure",
+    "choice2": "Enthalpy",
+    "choice3": "Entropy",
+    "choice4": "internal enrgy",
+    "answer": 1
+  },{
+    "question": "Cooking is not pressure coker are the example of:",
+    "choice1": "Open System",
+    "choice2": "Closed system",
+    "choice3": "Isolated System",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Normal cooking are the example of:",
+    "choice1": "Open System",
+    "choice2": "Closed system",
+    "choice3": "Isolated System",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The law of conservation of energy is called",
+    "choice1": "First law of thermodynamics",
+    "choice2": "Second law of thermodynamics",
+    "choice3": "Third law of thermodynamics",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Mathematically 1<sup>st</sup> law of thermodynamics written as",
+    "choice1": "q = ΔE + W",
+    "choice2": "PΔV = ΔE-ΔW",
+    "choice3": "q = PΔV + W",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Energy can neither be created nor destroyed but can be transfered and transformed. This is known as:",
+    "choice1": "Law of conservation of energy",
+    "choice2": "Law of conservation of mass",
+    "choice3": "Law of sonservation of momentum ",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The heat content of a system is called:",
+    "choice1": "Enthalpy",
+    "choice2": "Internal Energy",
+    "choice3": "Heat Energy",
+    "choice4": "Combuntion energy",
+    "answer": 1
+  },{
+    "question": "Which is the most form of carbon at 25<sup>o</sup>C?",
+    "choice1": "Diamond",
+    "choice2": "Graphite",
+    "choice3": "Coal",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "At the temperature standard enthalpy chnages are measured?",
+    "choice1": "298 K",
+    "choice2": "273 K",
+    "choice3": "298 <sup>o</sup>C",
+    "choice4": "298 <sup>o</sup>K",
+    "answer": 1
+  },{
+    "question": "Standard enthalpy change when one mole of compound is formed is called",
+    "choice1": "Standard enthalpy",
+    "choice2": "Standard heat of formation",
+    "choice3": "Entropy",
+    "choice4": "change in energy",
+    "answer": 2
+  },{
+    "question": "The enthalpy change accomplished by the comnbustion of one is called",
+    "choice1": "Heat of formation",
+    "choice2": "Heat of combunction",
+    "choice3": "Heat of sublimation",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "A state function represents:",
+    "choice1": "Physical state",
+    "choice2": "Chemical state",
+    "choice3": "Thermo dynamical state",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Hess's law is a special case of:",
+    "choice1": "First law of thermodynamics",
+    "choice2": "Second law of thermodynamics",
+    "choice3": "Third law of thermidynamics",
+    "choice4": "Law of conservation of energy",
+    "answer": 1
+  },{
+    "question": "Hess's law deals with:",
+    "choice1": "Change in the heat of reaction",
+    "choice2": "The rate of reaction",
+    "choice3": "the equilibrium constant",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The enrgy which is sum of all the enrgies of all the atoms molectules orirons with in a system is called:",
+    "choice1": "Internal Energy",
+    "choice2": "External Energy",
+    "choice3": "Bond Energy",
+    "choice4": "Potential Energy",
+    "answer": 1
+  },{
+    "question": "The symbol for standard enthalpy change is :",
+    "choice1": "Δ H<sup>o</sup>",
+    "choice2": "Δ E",
+    "choice3": "Δ S",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "When a solid is converted into liquid, entropy is:",
+    "choice1": "Increase",
+    "choice2": "Desease",
+    "choice3": "Become Zero",
+    "choice4": "Remains the same",
+    "answer": 1
+  },{
+    "question": "Which one of the following is endothermic reaction:",
+    "choice1": "Melting Point",
+    "choice2": "Sulimation",
+    "choice3": "Vaporization",
+    "choice4": "All of these",
+    "answer": 4
+  },{
+    "question": "Which is the intensive property:",
+    "choice1": "Density",
+    "choice2": "Mass",
+    "choice3": "Mole",
+    "choice4": "Volume",
+    "answer": 1
+  },{
+    "question": "Which one is the extensive property?",
+    "choice1": "Surface tension",
+    "choice2": "Viscosity",
+    "choice3": "Refravtive",
+    "choice4": "Gibb's energy",
+    "answer": 4
+  },{
+    "question": "Heat absorb at constant volume is:",
+    "choice1": "q = ΔE + PΔV",
+    "choice2": "ΔW = E2-E1",
+    "choice3": "q=PΔV",
+    "choice4": "q= ΔE",
+    "answer": 4
+  },{
+    "question": "Heat absorb at constant pressure is:",
+    "choice1": "q",
+    "choice2": "q",
+    "choice3": "q",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "In a process 240J of heat is absorbed by system while 120J of work is done one the change in interval energy is:",
+    "choice1": "240 J.",
+    "choice2": "260 J/",
+    "choice3": "360 J.",
+    "choice4": "160 J.",
+    "answer": 3
+  },{
+    "question": "Viscosity is the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Refractive index is the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Density is the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Gibb's free energy as the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Melting & boiling point are the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Entropy is the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Surface tension is the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Enthalpy is the example of:",
+    "choice1": "Intensive property",
+    "choice2": "Extensive property",
+    "choice3": "Both (a & b)",
+    "choice4": "None of these",
+    "answer": 2
+  }
+]

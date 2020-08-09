@@ -1,0 +1,355 @@
+[
+  {
+    "question": "The momogeneous mixture of solute and solvent is known as:",
+    "choice1": "Chemical REaction",
+    "choice2": "Chemical Kinetic",
+    "choice3": "Solution",
+    "choice4": "None of the above",
+    "answer": 3
+  },
+  {
+    "question": "Single phase mixture of molecule, atoms or ions of the two or more components are:",
+    "choice1": "Chemical Equilibrium",
+    "choice2": "Solution",
+    "choice3": "Chemical REaction",
+    "choice4": "None of the above",
+    "answer": 2
+  },
+  {
+    "question": "The solution in which little quantity of solute dissolved in salvent is called",
+    "choice1": "Unsaturated solution",
+    "choice2": "Saturated solution",
+    "choice3": "Super saturated solution",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The solution in which maximum quantity of solute dissolved in salvent is called",
+    "choice1": "Unsaturated solution",
+    "choice2": "Saturated solution",
+    "choice3": "Super saturated solution",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "The component of solution which is present in large quantity is usually termed as :",
+    "choice1": "Solute",
+    "choice2": "Solvent",
+    "choice3": "Catalyst",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "The component of solution which is present in small quantity is usually termed as :",
+    "choice1": "Solute",
+    "choice2": "Solvent",
+    "choice3": "Catalyst",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Chemical reactions are frequently carried out in:",
+    "choice1": "Solute",
+    "choice2": "Solvent",
+    "choice3": "Catalyst",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "The concentration of solution can be measured in",
+    "choice1": "3 units",
+    "choice2": "4 units",
+    "choice3": "5 units",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "The amount of solute present in given amount of solvent or solvent is called",
+    "choice1": "Concentration",
+    "choice2": "Molarity",
+    "choice3": "Solubility",
+    "choice4": "Normally",
+    "answer": 1
+  },{
+    "question": "The number of moles of solute present in one dm<sup>3</sup> of the solution is known as:",
+    "choice1": "Molality",
+    "choice2": "Molarity",
+    "choice3": "Normality",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The number of moles of solute present one Kg of the solution is known as:",
+    "choice1": "Molality",
+    "choice2": "Molarity",
+    "choice3": "Normality",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The number of gram - Equivalents of solute present in 1dm<sub>2</sub< of the solution is known as:",
+    "choice1": "Molality",
+    "choice2": "Molarity",
+    "choice3": "Normality",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Molarity of the solution are also known as",
+    "choice1": "Molal solution",
+    "choice2": "Molar solution",
+    "choice3": "Normality solution",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Molality of the solution are also known as",
+    "choice1": "Molal solution",
+    "choice2": "Molar solution",
+    "choice3": "Normality solution",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Molarity of the solution can expressed in:",
+    "choice1": "Mol/gm",
+    "choice2": "Kg/dm<sub>3</sub>",
+    "choice3": "gm/dm<sub>3</sub>",
+    "choice4": "mol/dm<sub>3</sub>",
+    "answer": 4
+  },{
+    "question": "Molality of the solution can be expressed in:",
+    "choice1": "mol/dm<sub>3</sub>",
+    "choice2": "gm/dm<sub>3</sub>",
+    "choice3": "mol/Kg",
+    "choice4": "gm/dm<sub>3</sub>",
+    "answer": 3
+  },{
+    "question": "Molarity of the solution represented as:",
+    "choice1": "M",
+    "choice2": "N",
+    "choice3": "m",
+    "choice4": "%",
+    "answer": 1
+  },{
+    "question": "Molality of the solution represented as:",
+    "choice1": "M",
+    "choice2": "N",
+    "choice3": "m",
+    "choice4": "%",
+    "answer": 3
+  },{
+    "question": "Normality of the solution represented as:",
+    "choice1": "M",
+    "choice2": "N",
+    "choice3": "m",
+    "choice4": "%",
+    "answer": 2
+  },{
+    "question": "The sum of the mole fraction of the two components of solution is always:",
+    "choice1": "Zero",
+    "choice2": "One",
+    "choice3": "Two",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Solution are divided on the basis of nature are:",
+    "choice1": "3 types",
+    "choice2": "6 types",
+    "choice3": "9 types",
+    "choice4": "12 types",
+    "answer": 3
+  },{
+    "question": "Solution are divided in the basis of saturation are:",
+    "choice1": "One",
+    "choice2": "Two",
+    "choice3": "Three",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "A 10 N solution stands for:",
+    "choice1": "Normal solution",
+    "choice2": "Deca normal solution",
+    "choice3": "Deci normal solution",
+    "choice4": "Semi normal solution",
+    "answer": 2
+  },{
+    "question": "A 1/10 N solution stands for:",
+    "choice1": "Deci normal solution",
+    "choice2": "Centi normal solution",
+    "choice3": "Milli normal solution",
+    "choice4": "None of above",
+    "answer": 1
+  },{
+    "question": "A 1/100 N solution stands for:",
+    "choice1": "Deci normal solution",
+    "choice2": "Centi normal solution",
+    "choice3": "Milli normal solution",
+    "choice4": "None of above",
+    "answer": 2
+  },{
+    "question": "A 1/1000 N solution stands for:",
+    "choice1": "Deci normal solution",
+    "choice2": "Centi normal solution",
+    "choice3": "Milli normal solution",
+    "choice4": "None of above",
+    "answer": 3
+  },{
+    "question": " A 1/10<sup>6</sup> N solution stans for:",
+    "choice1": "Milli normal solution",
+    "choice2": "Micro normal solution",
+    "choice3": "Centi normal solution",
+    "choice4": "None of above",
+    "answer": 2
+  },{
+    "question": "A 1/10 M solution for:",
+    "choice1": "Deci molar solution",
+    "choice2": "Deca molar solution",
+    "choice3": "Milli molar solution",
+    "choice4": "None of above",
+    "answer": 1
+  },{
+    "question": "A 1/100 M solution for:",
+    "choice1": "Milli Molar solution",
+    "choice2": "Centi Molar solution",
+    "choice3": "Deci Molar solution",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "A 1/10 M solution stands for:",
+    "choice1": "Deci molal solution",
+    "choice2": "Centi molal solution",
+    "choice3": "Milli molal solution",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "a solution which contains 1 mole of NaOh dissolved in one dm<sup>3</sup> of water is",
+    "choice1": "1 M NaOH",
+    "choice2": "1 N NaOH",
+    "choice3": "1M NaOH",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "A solution which contains 1 mol of H<sup>2</sub>SO<sup>4</sub> dissolve in one kilogram of water:",
+    "choice1": "1 M H<sub>2</sub>SO<sub>4</sub>",
+    "choice2": "1 N H<sub>2</sub>SO<sub>4</sub>",
+    "choice3": "1 m H<sub>2</sub>SO<sub>4</sub>",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Molarity of 4gm NaOH dissolved in one dm<sub>3</sub> of solution are:",
+    "choice1": "1 M",
+    "choice2": "0.5 M",
+    "choice3": "M",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Molarity of 0.4gm NaOH dissolved in one dm<sub>3</sub> of solution are:",
+    "choice1": "1 M",
+    "choice2": "0.5 M",
+    "choice3": "M",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Molarity of 9.8gm H<sub>2</sub>SO<sub>4</sub> dissolved in one dm<sub>3</sub> of solution are:",
+    "choice1": "1 M",
+    "choice2": "0.5 M",
+    "choice3": "M",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Molarity of 9.8gm H<sub>2</sub>SO<sub>4</sub> dissolved in 100 cm<sub>3</sub> of solution are:",
+    "choice1": "1 M",
+    "choice2": "0.5 M",
+    "choice3": "M",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Molarity of 4gm NaOH which dissolved in 500 cm<sub>3</sub> of solution is:",
+    "choice1": "1 M",
+    "choice2": "0.5 M",
+    "choice3": "M",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Molarity of 12gm NaOH dissolved in 100 cm<sub>3</sub> of solution is:",
+    "choice1": "1 M",
+    "choice2": "2 M",
+    "choice3": "3 M",
+    "choice4": "4 M",
+    "answer": 3
+  },{
+    "question": "A smei - molar solution H<sub>2</sub>SO<sub>4</sub> can be prepared by dissolving:",
+    "choice1": "98 gm/dm<sub>3</sub> of solution",
+    "choice2": "49 gm/dm<sub>3</sub> of solution",
+    "choice3": "24.5 gm/dm<sub>3</sub> of solution",
+    "choice4": "0.98 gm/dm<sub>3</sub> of solution",
+    "answer": 2
+  },{
+    "question": "A semi - molar solution KOH can be prepared by dissolving:",
+    "choice1": "56 gm/dm<sub>3</sub> of solution",
+    "choice2": "28 gm/dm<sub>3</sub> of solution",
+    "choice3": "14 gm/dm<sub>3</sub> of solution",
+    "choice4": "0.56 gm/dm<sub>3</sub> of solution",
+    "answer": 2
+  },{
+    "question": "The process in which water molecules surrounded and and enteract with solute ions or molecules is called:",
+    "choice1": "Hydrolysis",
+    "choice2": "Hyration",
+    "choice3": "Hydrogenation",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "The process in which water chemically react with salt is called:",
+    "choice1": "Hydration",
+    "choice2": "Hydrolysis",
+    "choice3": "Hydrogenation",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "Ionization is a",
+    "choice1": "Reversible process",
+    "choice2": "Irreversible processs",
+    "choice3": "Constant process",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "Positive ions are called:",
+    "choice1": "Anions",
+    "choice2": "Cation",
+    "choice3": "Ions",
+    "choice4": "Comman ions",
+    "answer": 2
+  },{
+    "question": "Negative ions are called:",
+    "choice1": "Anions",
+    "choice2": "Cation",
+    "choice3": "Ions",
+    "choice4": "Comman ions",
+    "answer": 1
+  },{
+    "question": "Acids bases and salts when dissolved in water into two kinds of particels called:",
+    "choice1": "Anions",
+    "choice2": "Cation",
+    "choice3": "Ions",
+    "choice4": "Comman ions",
+    "answer": 3
+  },{
+    "question": "When an electric current passes through the solution of an electrolytes to the cations moves towards:",
+    "choice1": "Cathode",
+    "choice2": "Anode",
+    "choice3": "Electrode",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "When an electric current passes through the solution of an electrolytes to the Anions moves towards:",
+    "choice1": "Cathode",
+    "choice2": "Anode",
+    "choice3": "Electrode",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The substancewhich contains water of crystallization is called:",
+    "choice1": "Hydrated",
+    "choice2": "Solvated",
+    "choice3": "Crystal",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "The oxidation number of Mn in KMnO<sub>4</sub> is:",
+    "choice1": "+7",
+    "choice2": "+5",
+    "choice3": "+3",
+    "choice4": "+1",
+    "answer": 1
+  }
+]

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Select Quiz</title>
+    <link rel="icon" href="icon/che_icon.png">
+    <meta name="theme-color" content="#ecf5ff">
+    
+    <link rel="stylesheet" href="select.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="select" class="flex-center flex-column">
+        <h1 style="font-size: 30px;">Select Your Quiz Type</h1>
+        <a class="btn dropbtn" onclick="document.getElementById('home').classList.remove('hidden');document.getElementById('select').classList.add('hidden');">Chapters</a>
+        <a class="btn dropbtn"onclick="document.getElementById('yr').classList.remove('hidden');document.getElementById('select').classList.add('hidden');">5 Years</a>
+      </div>
+      <div id="home" class="flex-center flex-column hidden">
+        <h1 style="font-size: 30px;">Select Chapter</h1>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_1');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';nomc.children[5].style.display='none';document.getElementById('home').style.display='none';">Chapter 1</a>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_2');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';nomc.children[5].style.display='none';document.getElementById('home').style.display='none';">Chapter 2</a>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_3');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';document.getElementById('home').style.display='none';">Chapter 3</a>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_4');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';nomc.children[5].style.display='none';document.getElementById('home').style.display='none';">Chapter 4</a>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_5');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';document.getElementById('home').style.display='none';">Chapter 5</a>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_6');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';document.getElementById('home').style.display='none';">Chapter 6</a>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_7');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';document.getElementById('home').style.display='none';">Chapter 7</a>
+        <a class="btn dropbtn" onclick="localStorage.setItem('subselected','chem_8');var nomc = document.getElementById('no_mcq');nomc.style.display='flex';document.getElementById('home').style.display='none';">Chapter 8</a>
+        </div>
+      
+        <div id="no_mcq" class="flex-center flex-column hidden" >
+          <h1 style="font-size: 30px;">Select Number of MCQ's</h1 s>
+          <a class="btn dropbtn" onclick="localStorage.setItem('totalq','10');window.location.href='game.html'">10 MCQ's</a>
+          <a class="btn dropbtn" onclick="localStorage.setItem('totalq','20');window.location.href='game.html'">20 MCQ's</a>
+          <a class="btn dropbtn" onclick="localStorage.setItem('totalq','30');window.location.href='game.html'">30 MCQ's</a>
+          <a class="btn dropbtn" onclick="localStorage.setItem('totalq','40');window.location.href='game.html'">40 MCQ's</a>
+          <a class="btn dropbtn" onclick="localStorage.setItem('totalq','50');window.location.href='game.html'">50 MCQ's</a>
+          </div>
+          <div class="flex-center flex-column hidden" id="yr">
+            <h1 style="font-size: 30;">Select The Year</h1>
+            <a class="btn dropbtn" onclick="localStorage.setItem('subselected','y_2019');localStorage.setItem('totalq','17'); window.location.href='game.html'">2019</a>
+            <a class="btn dropbtn" onclick="localStorage.setItem('subselected','y_2018');localStorage.setItem('totalq','17'); window.location.href='game.html'">2018</a>
+            <a class="btn dropbtn" onclick="localStorage.setItem('subselected','y_2017');localStorage.setItem('totalq','17'); window.location.href='game.html'">2017</a>
+            <a class="btn dropbtn" onclick="localStorage.setItem('subselected','y_2016');localStorage.setItem('totalq','17'); window.location.href='game.html'">2016</a>
+            <a class="btn dropbtn" onclick="localStorage.setItem('subselected','y_2015');localStorage.setItem('totalq','17'); window.location.href='game.html'">2015</a>
+
+          </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,355 @@
+[
+  {
+    "question": "A double arrow is a chemical equation indicates:",
+    "choice1": "Reversible reaction",
+    "choice2": "Irreversible reaction",
+    "choice3": "Incomplete reaction",
+    "choice4": "None of these",
+    "answer": 1
+  },
+  {
+    "question": "The change in concentraction of reactant or product are called:",
+    "choice1": "Rate of reaction",
+    "choice2": "Rate of products",
+    "choice3": "Rate of reactant",
+    "choice4": "None of these",
+    "answer": 1
+  },
+  {
+    "question": "The rate od chemical reaction depends upon :",
+    "choice1": "Temperature",
+    "choice2": "Volume",
+    "choice3": "Initial Temperature",
+    "choice4": "Final Temperature",
+    "answer": 2
+  },{
+    "question": "At chemical Equilibrium rate of forward and backward reaction are",
+    "choice1": "Zero",
+    "choice2": "Equal",
+    "choice3": "Un equal",
+    "choice4": "Constant",
+    "answer": 2
+  },{
+    "question": "The molar concentration of reactant directly proportional to rate of reaction is called:",
+    "choice1": "Rate law",
+    "choice2": "Boyle's law",
+    "choice3": "Hess's law",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "The value of Kc is independent of:",
+    "choice1": "Initial concentration of reactant",
+    "choice2": "Catalyst",
+    "choice3": "Volume",
+    "choice4": "Pressure",
+    "answer": 1
+  },{
+    "question": "In law of mass action, Kc expreesion written as:",
+    "choice1": "[Product]/[reactant]",
+    "choice2": "[Reactant]/[Prouct]",
+    "choice3": "[Product]<sup>n</sup>/[Reactant]<sup>n</sup>",
+    "choice4": "[Reactant]<sup>n</sup>/[Product]<sup>n</sup>",
+    "answer": 3
+  },{
+    "question": "Kc experession for H<sub>2</sub> + I<sub>2</sub> ---> 2HI written as:",
+    "choice1": "[HI][I]/[HI]",
+    "choice2": "[HI]<sup>2</sup>/[H][I]",
+    "choice3": "[HI]/[H][I]",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Kc expression for 2O<sub>3</sub>---->3O<sub>2</sub> is written as",
+    "choice1": "[O<sub>3</sub>]/[O<sub>2</sub>]",
+    "choice2": "[O<sub>3</sub>]<sup>2</sup>/[O<sub>2</sub>]",
+    "choice3": "[O<sub2</sub>]/[O<sub>3</sub>]",
+    "choice4": "[O<sub>2</sub>]<sup>3</sup>/[O<sub>3</sub>]<sup>2</sup>",
+    "answer": 4
+  },{
+    "question": "If chemical reaction is represented by an equation mA+nB⇌xC+yD then equilibrium constant Kc is given by.",
+    "choice1": "Kc<sup>[C][D]</sub>&frasl;<sub>[A][B]</sub>",
+    "choice2": "Kc<sup>[A][B]</sub>&frasl;<sub>[C][D]</sub>",
+    "choice3": "Kc<sup>[C]<sup>x</sup>[D]<sup>y</sup></sub>&frasl;<sub>[A]<sup>m</sup>[B]<sup>n</sup></sub>",
+    "choice4": "Kc<sup>[C]<sup>m</sup>[D]<sup>n</sup></sub>&frasl;<sub>[A]<sup>x</sup>[B]<sup>y</sup></sub>",
+    "answer": 3
+  },{
+    "question": "For the reaction 3A + 2B ⇌ C the expression for equilibrium constant Kc is:",
+    "choice1": "Kc<sup>[C][D]</sub>&frasl;<sub>[C]</sub>",
+    "choice2": "Kc<sup>[C]</sub>&frasl;<sub>[A][B]</sub>",
+    "choice3": "Kc<sup>[C]</sup>&frasl;<sub>[A]<sup>3</sup>[B]<sup>2</sup></sub>",
+    "choice4": "Kc<sup>[A]<sup>3</sup>[B]<sup>3</sup></sub>&frasl;<sub>[C]</sub>",
+    "answer": 3
+  },{
+    "question": "Kc expression for N<sub>2<sub> + 3H<sub></sub>2 ⇌ 2NH<sub>3</sub> is written as :",
+    "choice1": "Kc<sup>[N<sub>2</sub>][H<sub>2</sub>]<sup>3</sup></sup>&frasl;<sub>[NH<sub>3</sub>]<sup>2</sup></sub>",
+    "choice2": "Kc <sup>[NH<sub>3</sub>]<sup>3</sup></sup>&frasl;<sub>[N<sub>2</sub>][H<sub>2</sub>]<sup>3</sup></sub>",
+    "choice3": "Kc<sup>[N<sub>2</sub>][H<sub>2</sub>]</sup>&frasl;<sub>[NH<sub>3</sub>]</sub>",
+    "choice4": "Kc <sup>[NH<sub>3</sub>]</sup>&frasl;<sub>[N<sub>2</sub>][H<sub>2</sub>]</sub>",
+    "answer": 2
+  },{
+    "question": "When kp>kc,there change is:",
+    "choice1": "Increase in volume ",
+    "choice2": "Decrease in volume",
+    "choice3": "No change in volume",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "When Kp < Kc ,there is no change in:",
+    "choice1": "Increase in volume ",
+    "choice2": "Decrease in volume",
+    "choice3": "No change in volume",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "When Kp - Kc, there is no change in:",
+    "choice1": "Volume",
+    "choice2": "Temperature",
+    "choice3": "Pressure",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "We can deduce the direction in which equilibrium will shift with the help of:",
+    "choice1": "Law of mass action",
+    "choice2": "Le-Chetelier's principle",
+    "choice3": "1<sup>st</sup> law of thermodynamics",
+    "choice4": "Hess's law",
+    "answer": 2
+  },{
+    "question": "The reaction between Kp and Kc expression are:",
+    "choice1": "Kp = Kc(RT)<sup>Δn</sup>",
+    "choice2": "Kc = Kp(RT)<sup>Δn</sup>",
+    "choice3": "Kp = Kc(PV)<sup>Δn</sup>",
+    "choice4": "Kc = Kp(PW)<sup>Δn</sup>",
+    "answer": 1
+  },{
+    "question": "Which of the following shows Kp>Kc?",
+    "choice1": "H<sub>2</sup> + I<sub>2</sub> ⇌ 2HI",
+    "choice2": "2NH<sub>3 ⇌ N<sub>2</sub> + 3H<sub>2</sub>",
+    "choice3": "2SO<sub>2</sub> + O<sub>2</sub> ⇌ 2SO<sub>3</sub>",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "Which of the following shows Kp=Kc?",
+    "choice1": "H<sub>2</sup> + I<sub>2</sub> ⇌ 2HI",
+    "choice2": "2NH<sub>3 ⇌ N<sub>2</sub> + 3H<sub>2</sub>",
+    "choice3": "2SO<sub>2</sub> + O<sub>2</sub> ⇌ 2SO<sub>3</sub>",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Which of the following shows Kp<Kc?",
+    "choice1": "H<sub>2</sup> + I<sub>2</sub> ⇌ 2HI",
+    "choice2": "2NH<sub>3 ⇌ N<sub>2</sub> + 3H<sub>2</sub>",
+    "choice3": "2SO<sub>2</sub> + O<sub>2</sub> ⇌ 2SO<sub>3</sub>",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "The chemical reaction for the expression <sub>[O<sub>2</sub>]<sup>3</sup></sub>&frasl;<sub>[O<sub>3</sub>]<sup>2</sup></sub>",
+    "choice1": "3O<sub>2</sub> ⇌ 2O<sub>3</sub>",
+    "choice2": "2O<sub>3</sub> ⇌ 3O<sub>2</sub>",
+    "choice3": "O<sub>3</sub> ⇌ O<sub>2</sub>",
+    "choice4": "O<sub>2</sub> ⇌ O<sub>3</sub>",
+    "answer": 2
+  },{
+    "question": "The chemical reaction for the expression <sup>[H<sub>2</sub>][I<sub>2</sub>]</sup>&frasl;<sub>[HI]<sup>2</sup></sub>",
+    "choice1": "H<sub>2</sub> + I<sub>2</sub> ⇌ 2HI",
+    "choice2": "2HI ⇌ H<sub>2</sub> + I<sub>2</sub>",
+    "choice3": "H<sub>2</sub> + I<sub>2</sub> ⇌ 2HI",
+    "choice4": "HI ⇌ H<sub>2</sub> + I<sub>2</sub>",
+    "answer": 2
+  },{
+    "question": "The chemical reaction for the expression <sup>[CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>][H<sub>2</sub>O]</sup>&frasl;<sub>[CH<sub>3</sub>COOCH][C<sub>2</sub>H<sub>5</sub>OH]</sub>  is:",
+    "choice1": "CH<sub>3</sub>COOC<sub>2</sub>H<sub>5 + H<sub>2</sub>O + ⇌ CH<sub>3</sub>COOH + C<sub>2</sub>H<sub>5</sub>OH",
+    "choice2": "CH<sub>3</sub>COOH + C<sub>2</sub>H<sub>5</sub>OH ⇌ CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>+ H<sub>2</sub>O",
+    "choice3": "CH<sub>3</sub>COOH + H<sub>2</sub>O ⇌ CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub> + C<sub>2</sub>H<sub>5</sub>OH",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Which of the follwing shows Kp expression for partial pressure:",
+    "choice1": "N<sub>2</sub> + 3H<sub>2</sub> ⇌ 2NH<sub>3</sub>",
+    "choice2": "CH<sub>3</sub>COOH + C<sub>2</sub>H<sub>5</sub>OH ⇌ CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>+ H<sub>2</sub>O",
+    "choice3": "PCI<sub>5</sub> ⇌ PCI<sub>3</sub> + Cl<sub>3</sub>",
+    "choice4": "2HI ⇌ H<sub>2</sub> + I<sub>2</sub>",
+    "answer": 1
+  },{
+    "question": "For the reaction H<sub>2(g)</sub> + I<sub>2(g)</sub> ----> 2HI<sub>2(g)</sub> the equilibrium constant Kp changes with the:",
+    "choice1": "Total pressure",
+    "choice2": "Catalyst",
+    "choice3": "Amount of H<sub>2</sub> and I<sub>2</sub> present",
+    "choice4": "Temperature",
+    "answer": 1
+  },{
+    "question": "Which favours the yeild of amonia gas in Haber's process?",
+    "choice1": "High pressure and high temperature",
+    "choice2": "Low pressure and high temperature",
+    "choice3": "High pressure and low temperature",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "Which favours the yeild of SO<sub>3</sub> gas in Contact's process?",
+    "choice1": "High pressure and high temperature",
+    "choice2": "Low pressure and high temperature",
+    "choice3": "High pressure and low temperature",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "In Haber's process of making ammonia gas,an increase in pressure favours:",
+    "choice1": "The forward reaction",
+    "choice2": "The unchanges reaction",
+    "choice3": "The backward reaction",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "In Haber's process of making ammonia gas,an increase in temperature favours:",
+    "choice1": "The forward reaction",
+    "choice2": "The unchanges reaction",
+    "choice3": "The backward reaction",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "In Haber's process of making ammonia gas,an increase in cooncentration of reactant favours:",
+    "choice1": "The forward reaction",
+    "choice2": "The unchanges reaction",
+    "choice3": "The backward reaction",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "In the Contact's processfor making SO<sub>3</sub> gas, an increase in pressure favours:",
+    "choice1": "The forward reaction",
+    "choice2": "The unchanges reaction",
+    "choice3": "The backward reaction",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "In the Contact's processfor making SO<sub>3</sub> gas, an increase in temperature favours:",
+    "choice1": "The forward reaction",
+    "choice2": "The unchanges reaction",
+    "choice3": "The backward reaction",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "In the Contact's processfor making SO<sub>3</sub> gas, an increase in concentration of reactants favours:",
+    "choice1": "The forward reaction",
+    "choice2": "The unchanges reaction",
+    "choice3": "The backward reaction",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "The state of equilibrium that involve reactants and products in single phase is called:",
+    "choice1": "Homogenous",
+    "choice2": "Dynamics",
+    "choice3": "Heterogeneous",
+    "choice4": "Static",
+    "answer": 1
+  },{
+    "question": "The state of equilibrium that involve reactant an product in more then one phase is called:",
+    "choice1": "Homogenous",
+    "choice2": "Dynamics",
+    "choice3": "Heterogeneous",
+    "choice4": "Static",
+    "answer": 3
+  },{
+    "question": "The chemical reaction for the expression <sup>[PCI<sub>3</sub>][CI<sub>3</sub>]</sup>&frasl;<sub>[PCI<sub>5</sub>]</sub>",
+    "choice1": "PCI<sub>3</sub> + CI<sub>2</sub> ---> PCI<sub>5</sub>",
+    "choice2": "PCI<sub>5</sub> ---> PCI<sub>3</sub> + CI<sub>2</sub>",
+    "choice3": "PCI<sub>3</sub> ---> PCI<sub>5</sub> + CI<sub>2</sub>",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "The Unit equilibrium constant Kc depends upon:",
+    "choice1": "Mole of reactant only",
+    "choice2": "Mole of reactants and products",
+    "choice3": "Moles of products only",
+    "choice4": "None of them",
+    "answer": 2
+  },{
+    "question": "The unit equilibrium constant Kc depends upon:",
+    "choice1": "Temperature",
+    "choice2": "Volume",
+    "choice3": "Pressure",
+    "choice4": "None of them",
+    "answer": 2
+  },{
+    "question": "Rate of endothermic reaction will increases with increase in:",
+    "choice1": "Temperature",
+    "choice2": "Volume",
+    "choice3": "Pressure",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "Rate of exothermic reaction will increases with increase in:",
+    "choice1": "Temperature",
+    "choice2": "Volume",
+    "choice3": "Pressure",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "When a catalyst is added to a system in equilibriu,, the equilibrium concentration of reactants is:",
+    "choice1": "Increased",
+    "choice2": "Remains constant",
+    "choice3": "Decreased",
+    "choice4": "None of them",
+    "answer": 2
+  },{
+    "question": "In reaction 2KCIO<sub>3</sub> ----> 2KCI + 2O<sub>2</sub> , When KCI is added to a saturated solution of KCIO<sub>3</sub>, the equilibrium is hsift in:",
+    "choice1": "Forward direction",
+    "choice2": "Not Effected",
+    "choice3": "Reverse direction",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "An analogy of Le-Chatelier's in physics.",
+    "choice1": "Newton's first law of motion",
+    "choice2": "Newton's third law of motion",
+    "choice3": "Newton's second law of motion",
+    "choice4": "None of them",
+    "answer": 2
+  },{
+    "question": "Increase in pressure, in the decomposition of PCI<sub>t</sub> to PCI<sub>3</sub> and CI<sub>2</sub> favours the reaction in:",
+    "choice1": "Forward direction",
+    "choice2": "Equilibrium",
+    "choice3": "Reverse direction",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "Decrease in pressure, in the decomposition of PCI<sub>t</sub> to PCI<sub>3</sub> and CI<sub>2</sub> favours the reaction in:",
+    "choice1": "Forward direction",
+    "choice2": "Equilibrium",
+    "choice3": "Reverse direction",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "Unit of Kc in H<sub>2</sub> + I<sub>2</sub> ⇌ 2HI this reaction is:",
+    "choice1": "Nil",
+    "choice2": "mol<sup>2</sup>.dm<sup>-6</sup>",
+    "choice3": "mol.dm<sup>-6</sup>",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "Unit of Kc in 3H<sub>2</sub> + N<sub>2</sub> ⇌ 2NH<sub>3</sub> this reaction is:",
+    "choice1": "Nil",
+    "choice2": "mol<sup>2</sup>.dm<sup>-6</sup>",
+    "choice3": "mol.dm<sup>-3</sup>",
+    "choice4": "None of them",
+    "answer": 2
+  },{
+    "question": "Unit of Kc is PCL<sub>5</sub> ⇌ PCI<sub>3</sub> + CI<sub>2</sub>this reaction is:",
+    "choice1": "mol.dm<sup>-3</sup>",
+    "choice2": "mol<sup>-1</sup>.dm<sup>-3</sup>",
+    "choice3": "mol<sup>-1</sup>.dm<sup>-3</sup>",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "Unit of Kc is 2SO<sub>2</sub> + O<sub>2</sub> ⇌ 2SO<sub>2</sub> this reaction is:",
+    "choice1": "mol.dm<sup>-3</sup>",
+    "choice2": "mol<sup>-1</sup>.dm<sup>-3</sup>",
+    "choice3": "mol<sup>-1</sup>.dm<sup>-3</sup>",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "Unit of Kc is CH<sub>3</sub>COOH + C<sub>2</sub>H<sub>5</sub>OH ⇌ CH<sub>3</sub>COOC<sub>2</sub>H<sub>5</sub>+ H<sub>2</sub>O this reaction is:",
+    "choice1": "Nil",
+    "choice2": "mol<sup>2</sup>.dm<sup>-6</sup>",
+    "choice3": "mol.dm<sup>-3</sup>",
+    "choice4": "None of them",
+    "answer": 1
+  }
+]

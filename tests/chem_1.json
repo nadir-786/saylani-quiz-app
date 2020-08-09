@@ -1,0 +1,292 @@
+[
+  {
+    "question": "The molecular formula of Ferric Oxide is:",
+    "choice1": "FeO",
+    "choice2": "Fe<sub>2</sub>O",
+    "choice3": "Fe<sub>2</sub>O<sub>3</sub>",
+    "choice4": "Fe<sub>3</sub>O<sub>3</sub>",
+    "answer": 3
+  },
+  {
+    "question": "The molar mass of Ca(OH)<sub>2</sub> is:",
+    "choice1": "57",
+    "choice2": "72",
+    "choice3": "74",
+    "choice4": "78",
+    "answer": 3
+  },
+  {
+    "question": "The molecular formula of Potassium per magnate is:",
+    "choice1": "KMnO<sub>2</sub>",
+    "choice2": "KMnO<sub>4</sub>",
+    "choice3": "KMnO<sub>2</sub>",
+    "choice4": "K<sub>2</sub>MnO<sub>4</sub>",
+    "answer": 2
+  },{
+    "question": "The molecular mass of NaHCO<sub>2</sub>",
+    "choice1": "82",
+    "choice2": "84",
+    "choice3": "90",
+    "choice4": "106",
+    "answer": 2
+  },{
+    "question": "Significant figure of 9000 are",
+    "choice1": "1",
+    "choice2": "3",
+    "choice3": "4",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Significant figure of 0.0052 are:",
+    "choice1": "2",
+    "choice2": "3",
+    "choice3": "5",
+    "choice4": "None of above",
+    "answer": 1
+  },{
+    "question": "Significant figure of 9.11x10<sup>-31</sup>",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "5",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "Reduce form of 27.55 is:",
+    "choice1": "27.0",
+    "choice2": "27.5",
+    "choice3": "37.6",
+    "choice4": "Un change",
+    "answer": 3
+  },{
+    "question": "257.00 written in exponential notation as",
+    "choice1": "2.57x10<sup>-2</sup>",
+    "choice2": "25.7x10<sup>2</sup>",
+    "choice3": "2.57x10<sup>2</sup>",
+    "choice4": "2.57x10<sup>-1</sup>",
+    "answer": 4
+  },{
+    "question": "Ruduce form of 41.72 is:",
+    "choice1": "41.0",
+    "choice2": "41.7",
+    "choice3": "41.8",
+    "choice4": "40.0",
+    "answer": 2
+  },{
+    "question": "5 mole of carbon dioxide is containes",
+    "choice1": "44gm",
+    "choice2": "88gm",
+    "choice3": "220gm",
+    "choice4": "440gm",
+    "answer": 3
+  },{
+    "question": "1 mole of SO<sub>3</sub> contains",
+    "choice1": "80gm of SO<sub>3</sub>",
+    "choice2": "22.41dm<sup>3</sup> of SO<sub>3</sub>",
+    "choice3": "6.02x10<sup>23</sup> molecule if SO<sub>3</sub>",
+    "choice4": "All of the above",
+    "answer": 4
+  },{
+    "question": "69.5x10<sup>-2</subp> written in normal value as",
+    "choice1": "950",
+    "choice2": "95",
+    "choice3": "0.95",
+    "choice4": "0.095",
+    "answer": 4
+  },{
+    "question": "One mole of C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> contains:",
+    "choice1": "72gm of Carbon",
+    "choice2": "96gm of Oxygen",
+    "choice3": "12gm of Hydrogen",
+    "choice4": "All of the above",
+    "answer": 4
+  },{
+    "question": "40gm of NaOH contains:",
+    "choice1": "0.5 mol",
+    "choice2": "1 mol",
+    "choice3": "2 mol",
+    "choice4": "Mol",
+    "answer": 2
+  },{
+    "question": "6.02x10<sup>23</sup> molecules of NH<sub>3</sub> Contains",
+    "choice1": "1 mol",
+    "choice2": "17gm",
+    "choice3": "22.41 dm<sup>3</sup>",
+    "choice4": "All of the above",
+    "answer": 4
+  },{
+    "question": "moles of NaOH contains",
+    "choice1": "40gm",
+    "choice2": "6.02x10<sup>22</sup>",
+    "choice3": "22.41 dm<sup>3</sup>",
+    "choice4": "All of the above",
+    "answer": 4
+  },{
+    "question": "2.241 dm<sup>3</sup> of NH<sub>3</sub> at STP Contains:",
+    "choice1": "1 mol",
+    "choice2": "Mol",
+    "choice3": "Mol",
+    "choice4": "mol",
+    "answer": 2
+  },{
+    "question": "S.T.P means:",
+    "choice1": "1 atm and 273 <sup>o</sup>C",
+    "choice2": "760 torr and 0 <sup>o</sup>C",
+    "choice3": "1am OK",
+    "choice4": "None",
+    "answer": 2
+  },{
+    "question": "One dm<sup>3</sup> is equal to :",
+    "choice1": "One litre ",
+    "choice2": "One millimeter",
+    "choice3": "One kilogram",
+    "choice4": "One centimeter",
+    "answer": 1
+  },{
+    "question": "The percentage of Hydrogen of  H<sub>2</sub>O is :",
+    "choice1": "11.11%",
+    "choice2": "88.88%",
+    "choice3": "22.22%",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Which of the compound has same Molecule and Emperical formula:",
+    "choice1": "NH<sub>3</sub>",
+    "choice2": "NH<sub>4</sub>",
+    "choice3": "CO<sub>2</sub>",
+    "choice4": "All of the above",
+    "answer": 4
+  },{
+    "question": "Which of the following molecule has CH<sub>2</sub>O Emperical Formula:",
+    "choice1": "CH<sub>3</sub>COOH",
+    "choice2": "C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>",
+    "choice3": "C<sub>6</sub>H<sub>12</sub>O<sub>22</sub>",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Which of the pair has same Emperical formula",
+    "choice1": "CO<sub>2</sub> & C<sub>2</sub>H<sub>2</sub>",
+    "choice2": "CH<sub>4</sub> & C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+    "choice3": "CH<sub>4</sub> & C<sub>2</sub>H<sub>6</sub>",
+    "choice4": "CH<sub>3</sub>COOH & C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+    "answer": 4
+  },{
+    "question": "Emperical formula of Glucose is ",
+    "choice1": "C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>",
+    "choice2": "CH<sub>2</sub>O",
+    "choice3": "C<sub>3</sub>H<sub>4</sub>O<sub>3</sub>",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "Emperical formula of Acetic acid is:",
+    "choice1": "CHO",
+    "choice2": "CH<sub>2</sub>O",
+    "choice3": "CH",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "Gram atomic and gram molecular masses the referred as",
+    "choice1": "Mole",
+    "choice2": "Mole fraction",
+    "choice3": "Mass Number",
+    "choice4": "Percentage Composition",
+    "answer": 1
+  },{
+    "question": "The Stoichimetry of reversible reaction can be studied under the head:",
+    "choice1": "Chemical Kinetics",
+    "choice2": "Dynamic Equilibrium",
+    "choice3": "Chemical Equilibrium",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "a compound is represented by a :",
+    "choice1": "Symbol",
+    "choice2": "Chemical formula",
+    "choice3": "Chemical Equation",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "The simplest whole number ration of atoms in the compoun is called:",
+    "choice1": "Emperical Formula",
+    "choice2": "Molecular Formula",
+    "choice3": "Structural Formula",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "Sum of atomic masses of elements in a molecule is called:",
+    "choice1": "Atomic mass",
+    "choice2": "Formula mass",
+    "choice3": "Molecular Mass",
+    "choice4": "Emperical Mass",
+    "answer": 3
+  },{
+    "question": "Human error is also called as",
+    "choice1": "Random error",
+    "choice2": "Systematic error",
+    "choice3": "Personal error",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "Number of the atoms present in H<sub>2</sub>SO<sub>5 is:</sub>",
+    "choice1": "2",
+    "choice2": "4",
+    "choice3": "5",
+    "choice4": "7",
+    "answer": 4
+  },{
+    "question": "The number of atoms in Na<sub>2</sub>CO<sub>3</sub> is:",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "4",
+    "choice4": "6",
+    "answer": 4
+  },{
+    "question": "Number of atoms in AI<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>",
+    "choice1": "2",
+    "choice2": "10",
+    "choice3": "15",
+    "choice4": "17",
+    "answer": 4
+  },{
+    "question": "Kilogram is the S.I unit of:",
+    "choice1": "Mass",
+    "choice2": "Weight",
+    "choice3": "Length",
+    "choice4": "Pressure",
+    "answer": 1
+  },{
+    "question": "Very small and very large quantities are expressed in term of :",
+    "choice1": "Precision",
+    "choice2": "Significant",
+    "choice3": "Expotential",
+    "choice4": "Logarithm",
+    "answer": 3
+  },{
+    "question": "Molecular Formula = n x ______________.",
+    "choice1": "Emperical Formula",
+    "choice2": "Compound Formula",
+    "choice3": "Atomic Formula",
+    "choice4": "Tonic formula",
+    "answer": 1
+  },{
+    "question": "The emperical formula of 75% carbon 25% hydrogen is:",
+    "choice1": "CH",
+    "choice2": "CH<sub>2</sub>",
+    "choice3": "Ch<sub>3</sub>",
+    "choice4": "CH<sub>4</sub>",
+    "answer": 4
+  },{
+    "question": "Which of the Organic compound having different empirical and molecular formula:",
+    "choice1": "Benzene",
+    "choice2": "Methyle alcohol",
+    "choice3": "Methane",
+    "choice4": "Methyl Chloride",
+    "answer": 1
+  },{
+    "question": "Intrumental Error one also known as",
+    "choice1": "Personal error",
+    "choice2": "Human error",
+    "choice3": "Systematic error",
+    "choice4": "None of the above",
+    "answer": 3
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "question": "The molecule which have partial positive charge at one end and a partial negative charge at the other are called",
+    "choice1": "ion-pairs",
+    "choice2": "charged molecules",
+    "choice3": "dipoles",
+    "choice4": "electric molecules",
+    "answer": 3
+  },
+  {
+    "question": "The momentary attractions between the molecules of a liquid caused by instantaneous dipole and induced depole attraction are called : ",
+    "choice1": "van de Walls forces",
+    "choice2": "polar forces",
+    "choice3": "French forces",
+    "choice4": "London forces",
+    "answer": 4
+  },
+  {
+    "question": "The boiling point of a liquid is that temperature at which :",
+    "choice1": "the vapour pressure of the liquid is equal to the atmospheric pressure",
+    "choice2": "the vapour pressure of the liquid is less than the atmospheric pressure",
+    "choice3": "the vapoure pressure of the liquid is greater than the atmospheric pressure",
+    "choice4": "the vapor pressure of the liquid is equal to the square root of atmospheric pressure",
+    "answer": 1
+  },{
+    "question": "With rise in temperature, the sureface rension of a liquid:",
+    "choice1": "increase",
+    "choice2": "decrease",
+    "choice3": "remains the name",
+    "choice4": "none of the above",
+    "answer": 2
+  },{
+    "question": "The unit in which surface tension is measured is :",
+    "choice1": "dyne cm",
+    "choice2": "dyne cm<sup>-1</sup>",
+    "choice3": "dyne<sup>-1</sup>cm",
+    "choice4": "dyne<sup>-1</sup> cm<sup>-1</sup>",
+    "answer": 2
+  },{
+    "question": "Viscosity of a liquid is a measured of :",
+    "choice1": "repulsive forces  between the liquid molecule.",
+    "choice2": "frictional resistence",
+    "choice3": "intermilecular forces between",
+    "choice4": "none of the above",
+    "answer": 2
+  },{
+    "question": "The reciprocal of viscosity is called:",
+    "choice1": "surface tension",
+    "choice2": "frictional resistance",
+    "choice3": "fludity",
+    "choice4": "none of these",
+    "answer": 3
+  },{
+    "question": "The dimensions in which coeddicient of viscosity is expressed are",
+    "choice1": "mass x length x time<sup>-1</sup>",
+    "choice2": "mass x length<sup>-1</sup> x time<sup>-1</sup>",
+    "choice3": "mass x length<sup>-1</sup> x time",
+    "choice4": "mass<sup>-1</sup> x lengh<sup>-1</sup> x time<sup>-1</sup>",
+    "answer": 2
+  },{
+    "question": "The SI unit of coefficient of ciscosity is :",
+    "choice1": "kg m<sup>2</sup> sec",
+    "choice2": "kg m sec<sup>-1</sup>",
+    "choice3": "kg m<sup>-1</sup> sec",
+    "choice4": "kg m<sup>-1</sup> sec<sup>-1</sup>",
+    "answer": 4
+  },{
+    "question": "Which of the following liquid has the maximum viscosity:",
+    "choice1": "water",
+    "choice2": "acetone",
+    "choice3": "ethyle alcohole",
+    "choice4": "glycerine",
+    "answer": 4
+  },{
+    "question": "The fludity of liquids ______________ with increase in temperature.",
+    "choice1": "decreases",
+    "choice2": "remains the same",
+    "choice3": "increases",
+    "choice4": "none of the above",
+    "answer": 3
+  },{
+    "question": "The rate of evaporation of a liquid depend upon:",
+    "choice1": "surface area",
+    "choice2": "temperature",
+    "choice3": "nature of liquid",
+    "choice4": "all of these",
+    "answer": 4
+  },{
+    "question": "The highest temperature at which vapours pressure of a liquid can be measured is:",
+    "choice1": "boiling point of the liquid",
+    "choice2": "freezing point if the liquid",
+    "choice3": "inversion temperature",
+    "choice4": "critical temperature",
+    "answer": 4
+  },{
+    "question": "Small droplets are psherical in shape,It is due to.",
+    "choice1": "high viscosity",
+    "choice2": "their tendency to aquire minimum surface area",
+    "choice3": "their tendebcy to aquire maximum surface area",
+    "choice4": "less viscosity",
+    "answer": 2
+  },{
+    "question": "Insects can wall on the surface of the water due to",
+    "choice1": "viscosity",
+    "choice2": "sureface tension",
+    "choice3": "refractivity",
+    "choice4": "optical activity",
+    "answer": 2
+  },{
+    "question": "The boiling point of the liquid _________________ with external pressure.",
+    "choice1": "changes",
+    "choice2": "always increases",
+    "choice3": "always decreases",
+    "choice4": "remains the same",
+    "answer": 1
+  },{
+    "question": "The unit of coeddicient of viscosity are",
+    "choice1": "dyne cm<sup>-2</sup> sec",
+    "choice2": "poise",
+    "choice3": "centipoise",
+    "choice4": "all of these",
+    "answer": 4
+  },{
+    "question": "Liquids with high molecular masses have _______________ vsscosity",
+    "choice1": "greater",
+    "choice2": "lesser",
+    "choice3": "zero",
+    "choice4": "noneof these",
+    "answer": 1
+  },{
+    "question": "The liquids with high intermolecular attraction forces have ____________ viscosity",
+    "choice1": "low",
+    "choice2": "intermediate",
+    "choice3": "higher",
+    "choice4": "none of these",
+    "answer": 3
+  },{
+    "question": "The gases can be convrted into liquids by",
+    "choice1": "increasing the pressure only",
+    "choice2": "lowering temperature and increasing pressure",
+    "choice3": "increasing pressure and bringing temperature below critical point",
+    "choice4": "lowering temperature only",
+    "answer": 3
+  },{
+    "question": "The intermolecular force in liquid are:",
+    "choice1": "Negligible",
+    "choice2": "Very weak",
+    "choice3": "very strong",
+    "choice4": "reasonably strong",
+    "answer": 4
+  },{
+    "question": "Landoon dispersion forces are also called",
+    "choice1": "Hydrogen bonding",
+    "choice2": "Deby forces",
+    "choice3": "Van der Waal's Forces",
+    "choice4": "Instanteneous dipole induced dipole forces",
+    "answer": 4
+  },{
+    "question": "Evaporation of water is possible at",
+    "choice1": "about 100<sup>o</sup>C",
+    "choice2": "0<sup>o</sup>",
+    "choice3": "100<sup>o</sup>C",
+    "choice4": "at all temperature",
+    "answer": 4
+  },{
+    "question": "Water may boil at 120<sup>o</sup>C when external pressure is:",
+    "choice1": "700 mm Hg",
+    "choice2": "1489 mm Hg",
+    "choice3": "100 mm Hg",
+    "choice4": "760 mm Hg",
+    "answer": 2
+  },{
+    "question": "Which is not true about the solid state",
+    "choice1": "they have definitee shape and volume",
+    "choice2": "they have high density and low compressibility",
+    "choice3": "they havee high attractive forces among molecules",
+    "choice4": "they have high vapour pressure",
+    "answer": 4
+  },{
+    "question": "The melting point is that temperature at which ",
+    "choice1": "solid and liquid forms of the subsance do not co-exist at equilibrium",
+    "choice2": "solid and liquid forms of the substance have same vapour pressure.",
+    "choice3": "vapour pressure is equal to one atmospheric pressure",
+    "choice4": "none of above",
+    "answer": 2
+  },{
+    "question": "Amorphpus solids do not have:",
+    "choice1": "sharp melting poiont ",
+    "choice2": "characteristics geometrical shapes",
+    "choice3": "regularity of the structure",
+    "choice4": "all of these",
+    "answer": 4
+  },{
+    "question": "A crystalline solid has",
+    "choice1": "definite geometrical shape",
+    "choice2": "flat faces",
+    "choice3": "sharp edges",
+    "choice4": "all of these",
+    "answer": 4
+  },{
+    "question": "Amphorphous substance are isotropic because",
+    "choice1": "they have same value of any property in all directions.",
+    "choice2": "they have differnet values of [hysical peroperties in different direction",
+    "choice3": "they have definite geometrical",
+    "choice4": "none of these",
+    "answer": 1
+  },{
+    "question": "The elements of symmetry are ",
+    "choice1": "plane of symmetry",
+    "choice2": "axis of symmetry",
+    "choice3": "center of symmetry",
+    "choice4": "all of these",
+    "answer": 4
+  },{
+    "question": "The amporphous solid among the following is:",
+    "choice1": "table alt",
+    "choice2": "diamond",
+    "choice3": "plastic",
+    "choice4": "graphite",
+    "answer": 3
+  },{
+    "question": "A crystalline solid does not has one of the following properties . It is.",
+    "choice1": "anisotropy",
+    "choice2": "sharp melting points",
+    "choice3": "isotroy",
+    "choice4": "definite and regular geometry",
+    "answer": 3
+  },{
+    "question": "For a tetragonal crystal systen which of the folliwng  is not true",
+    "choice1": "a = b ≠ c",
+    "choice2": "α = β = γ = 90<sup>o</sup>",
+    "choice3": "a ≠ b ≠ c",
+    "choice4": "none of these",
+    "answer": 3
+  },{
+    "question": "For a orthothombic crydtal system, ehich is incorrect?",
+    "choice1": "a ≠ b ≠ c",
+    "choice2": "α = β = γ = 90<sup>o</sup>",
+    "choice3": "a = b ≠ c",
+    "choice4": "none of these",
+    "answer": 1
+  },{
+    "question": "Na + Cl-,Cs+Cl- are the example of",
+    "choice1": "cubic crysstal system",
+    "choice2": "tetragonal crystal system",
+    "choice3": "orthorhombic crystal system",
+    "choice4": "rhombohedral crystal system",
+    "answer": 1
+  },{
+    "question": "The total number of atoms in abody centered cubic unit cell is:",
+    "choice1": "1",
+    "choice2": "2",
+    "choice3": "3",
+    "choice4": "4",
+    "answer": 2
+  },{
+    "question": "If there are 4 atoms in unit cell in a cubic system, it is an example of",
+    "choice1": "simple cubic unit cell",
+    "choice2": "body centered cubic unit cell",
+    "choice3": "face centered cubic unit cell",
+    "choice4": "none of these",
+    "answer": 3
+  },{
+    "question": "Which is incorrect for a hexgonal crystal system",
+    "choice1": "a = b = c",
+    "choice2": "a = b ≠ c",
+    "choice3": "α = β = γ = 90<sup>o</sup>",
+    "choice4": "none of these",
+    "answer": 1
+  },{
+    "question": "The co-ordination number Na<sup>+</sup> in Na<sup>+</sup>Cl<sup>-</sup> crystall is ",
+    "choice1": "2",
+    "choice2": "4",
+    "choice3": "6",
+    "choice4": "8",
+    "answer": 3
+  },{
+    "question": "The co-ordination number of body of centered cubic lattice is ",
+    "choice1": "2",
+    "choice2": "4",
+    "choice3": "6",
+    "choice4": "8",
+    "answer": 4
+  },{
+    "question": "The change in enthapy that occurs when one mole of a solid crystaline substance is formed from the gaseous ions.",
+    "choice1": "lattice energy",
+    "choice2": "ionic energy",
+    "choice3": "Born-Haber cycle",
+    "choice4": "crystailine energy",
+    "answer": 1
+  },{
+    "question": "In cubic close packed (ccp) pattern of a metallic crystal , the co-ordination number is",
+    "choice1": "12",
+    "choice2": "8",
+    "choice3": "6",
+    "choice4": "4",
+    "answer": 1
+  },{
+    "question": "In an ionic crystal, a cation and an anion leave the lattice to cause two vacancies. this defect is called:",
+    "choice1": "Schottky defect",
+    "choice2": "Frenket defect",
+    "choice3": "intersititial defect",
+    "choice4": "none of these",
+    "answer": 1
+  },{
+    "question": "Which of the following defects is genrally found in sodium chlod=ridde and cesium chloride?",
+    "choice1": "Frenkel defect",
+    "choice2": "interstitial defect",
+    "choice3": "Schotty defect",
+    "choice4": "none of these",
+    "answer": 3
+  },{
+    "question": "In a solid lattice , a cation has left a lattice site and is present in interstitial position, the lattice defect is",
+    "choice1": "Schottky defect",
+    "choice2": "Frenkel defect",
+    "choice3": "vacancy defect",
+    "choice4": "interstitial defect",
+    "answer": 2
+  },{
+    "question": "The number of atoms in a unit cell of a cube is",
+    "choice1": "0",
+    "choice2": "1",
+    "choice3": "2",
+    "choice4": "3",
+    "answer": 3
+  },{
+    "question": "The number of atoms in a unit cell of a face centered cube is ",
+    "choice1": "2",
+    "choice2": "4",
+    "choice3": "6",
+    "choice4": "8",
+    "answer": 2
+  }
+]

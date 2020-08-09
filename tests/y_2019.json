@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Capill action of liquid is due to :",
+    "choice1": "Suface tension ",
+    "choice2": "Density ",
+    "choice3": "Viscosity",
+    "choice4": "Fluidity",
+    "answer": 1
+  },
+  {
+    "question": "(n+1) value 5d orbital is :",
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "6",
+    "choice4": "7",
+    "answer": 4
+  },
+  {
+    "question": "This colour has the shortest wave length in the visible spectrum of light",
+    "choice1": "Red",
+    "choice2": "Violet",
+    "choice3": "Green",
+    "choice4": "Yellow",
+    "answer": 2
+  },{
+    "question": "This is the series of lines is produced when the electron jumps from the 4th orbit to 2nd orbit",
+    "choice1": "Lyman",
+    "choice2": "Balmer",
+    "choice3": "Bracket",
+    "choice4": "Paschen",
+    "answer": 2
+  },{
+    "question": "The maximum number of electron can be accommodated in f orbital is:",
+    "choice1": "7",
+    "choice2": "10",
+    "choice3": "14",
+    "choice4": "15",
+    "answer": 3
+  },{
+    "question": "This hydrogen halide has the highest percentage of ionic character",
+    "choice1": "HF",
+    "choice2": "HCL",
+    "choice3": "HBr",
+    "choice4": "HI",
+    "answer": 1
+  },{
+    "question": "This molecule has zero dipole moment:",
+    "choice1": "NH<sub>3</sub>",
+    "choice2": "CO<sub>2</sub>",
+    "choice3": "HCL",
+    "choice4": "H<sub>2</sub>O",
+    "answer": 2
+  },{
+    "question": "1 debye is equal to :",
+    "choice1": "2.225 x 10<sup>-33</sup> cm",
+    "choice2": "3.335 x 10<sup>-23</sup> cm",
+    "choice3": "3.335 x 10<sup>-30</sup> cm",
+    "choice4": "3.4 x 10<sup>-40</sup> cm",
+    "answer": 3
+  },{
+    "question": "One joule is equal to :",
+    "choice1": "0.239 cal",
+    "choice2": "0.391 cal",
+    "choice3": "0.398 cal",
+    "choice4": "4.184 cal",
+    "answer": 4
+  },{
+    "question": "In the following reaction K<sub>p</sub> > K<sub>c</sub> :",
+    "choice1": "H<sub>2</sub> + I<sub>2</sub> ⇌ 2HI",
+    "choice2": "PCI<sub>5</sub> ⇌ PCI<sub>3</sub> + CI<sub>2</sub>",
+    "choice3": "2SO<sub>2</sub> + O<sub>2</sub> ⇌ 2SO<sub>3</sub>",
+    "choice4": "2NO<sub>2</sub> ⇌ N<sub>2</sub>O<sub>4</sub>",
+    "answer": 2
+  },{
+    "question": "Universal indicator in acid gives",
+    "choice1": "Green colour",
+    "choice2": "Yellow colour",
+    "choice3": "Pink colour",
+    "choice4": "Red colour",
+    "answer": 1
+  },{
+    "question": "The oxidation number Mn un K<sub>2</sub>MnO<sub>4</sub> si :",
+    "choice1": "+2",
+    "choice2": "+4",
+    "choice3": "+6",
+    "choice4": "+7",
+    "answer": 3
+  },{
+    "question": "A powdered solif is more reactive than its chunks due to its:",
+    "choice1": "Higher temperature",
+    "choice2": "Greater volume",
+    "choice3": "Greater Surface area",
+    "choice4": "Higher pressure",
+    "answer": 3
+  },{
+    "question": "This number has five significant figure:",
+    "choice1": "391.10",
+    "choice2": "300002",
+    "choice3": "30000",
+    "choice4": "10300",
+    "answer": 1
+  },{
+    "question": "At S.T.P the volume of 3.01 x 10<sup>23</sup> molecule has H<sub>2</sub> gas is :",
+    "choice1": "22.5 dm<sup>3</sup>",
+    "choice2": "22.4 dm<sup>3</sup>",
+    "choice3": "11.2 dm<sup>3</sup>",
+    "choice4": "2.24 dm<sup>3</sup>",
+    "answer": 3
+  },{
+    "question": "An ideal gas obey gas law at:",
+    "choice1": "High Temperature",
+    "choice2": "High pressure",
+    "choice3": "All tmperature and pressure",
+    "choice4": "low temperature",
+    "answer": 3
+  },{
+    "question": "The process of direct conversion solid into vapour is called",
+    "choice1": "Condensation",
+    "choice2": "Sublimation",
+    "choice3": "Evaporation",
+    "choice4": "Neutralization",
+    "answer": 2
+  }
+]

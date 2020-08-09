@@ -1,0 +1,124 @@
+[
+  {
+    "question": "This following pair hashe same number of molecules:",
+    "choice1": "10gm H<sub>2</sub> & 10gm CH<sub>4</sub>",
+    "choice2": "H<sub>2</sub> & 50g CH<sub>4</sub>",
+    "choice3": "10gm H<sub>2</sub> & 80gm CH<sub>4</sub>",
+    "choice4": "10gm H<sub>2</sub> & 16gm CH<sub>4</sub>",
+    "answer": 3
+  },
+  {
+    "question": "if a = b = c and α = β = γ = 90<sup>o</sup>, the crystal structure is:",
+    "choice1": "Cubic",
+    "choice2": "Tetragonal",
+    "choice3": "Orthorhombic",
+    "choice4": "Triclinic",
+    "answer": 1
+  },
+  {
+    "question": "The following pair od ions is iso-eletronic:",
+    "choice1": "Na<sup>-</sup> & Mg<sup>2+</sup>",
+    "choice2": "Fe<sup>-</sup> & O<sup>-</sup>",
+    "choice3": "Li<sup>+</sup> & Na<sup>+</sup>",
+    "choice4": "S<sup>2-</sup> & O<sup>2-</sup>",
+    "answer": 1
+  },{
+    "question": "This one of the following colour has the shortest wavelength:",
+    "choice1": "Red",
+    "choice2": "Blue",
+    "choice3": "Violet",
+    "choice4": "Orange",
+    "answer": 3
+  },{
+    "question": "The S.I unit of Dipole moment is:",
+    "choice1": "dynw/cm",
+    "choice2": "poise",
+    "choice3": "Debye",
+    "choice4": "Columnb-meter",
+    "answer": 4
+  },{
+    "question": "1 Cal is equal to",
+    "choice1": "0.239J",
+    "choice2": "1.98J",
+    "choice3": "4.184J",
+    "choice4": "8.314J",
+    "answer": 3
+  },{
+    "question": "When 2 moles of solute are present in 2 dm<sup>3</sup> o solution then concentration of the solution is:",
+    "choice1": "0.5M",
+    "choice2": "1M",
+    "choice3": "2M",
+    "choice4": "3M",
+    "answer": 2
+  },{
+    "question": "With an increase in temperature, a system involving exothermic reaction will be:",
+    "choice1": "move in forward direction",
+    "choice2": "reamin at equilibrium",
+    "choice3": "move in the reverse direction",
+    "choice4": "none of these",
+    "answer": 3
+  },{
+    "question": "The oxidation number of sulpher in NaHSO<sub>4</sub> is:",
+    "choice1": "-2",
+    "choice2": "0",
+    "choice3": "+4",
+    "choice4": "+6",
+    "answer": 4
+  },{
+    "question": "This is not a primary bond:",
+    "choice1": "Ionic bond",
+    "choice2": "Convalent bond",
+    "choice3": "Dative bond",
+    "choice4": "Hydrogen bond",
+    "answer": 3
+  },{
+    "question": "for the reaction 2NH<sub>3</sub> ⇌ N<sub>2</sub>+3H<sub>2</sub> the relationship between Kc and Kp is:",
+    "choice1": "Kp = Kc",
+    "choice2": "Kp>Kc",
+    "choice3": "Kp<Kc",
+    "choice4": "Kp<Ksp",
+    "answer": 3
+  },{
+    "question": "Conduction in metals is due to the movement of",
+    "choice1": "ions",
+    "choice2": "electrons",
+    "choice3": "protons",
+    "choice4": "atoms",
+    "answer": 2
+  },{
+    "question": "Thee (n+1) value for 5d orbital is",
+    "choice1": "4",
+    "choice2": "5",
+    "choice3": "6",
+    "choice4": "7",
+    "answer": 1
+  },{
+    "question": "dipole moment of CS<sub>2</sub> si zero. Hence , the bond angle is: ",
+    "choice1": "90<sup>o</sup>",
+    "choice2": "109.5<sup>o</sup>",
+    "choice3": "120<sup>o</sup>",
+    "choice4": "180<sup>o</sup>",
+    "answer": 2
+  },{
+    "question": "The most favourable condition of temperature and pressure for oxidation of SO<sub2></sub> into SO<sub>3</sub> are",
+    "choice1": "low temperature and low pressure",
+    "choice2": "low temperature and high pressure",
+    "choice3": "high temperature and high pressure",
+    "choice4": "high temperature and low pressure",
+    "answer": 2
+  },{
+    "question": "The volume of 0.2M, H<sub>2</sub>sO<sub>4</sub> ,required for the neutralization of 10cm<sup>3</sup> of 0.1M NaOH is",
+    "choice1": "2.5cm<sup>3</sup>",
+    "choice2": "5cm<sup>3</sup>",
+    "choice3": "10cm<sup>3</sup>",
+    "choice4": "15cm<sup>3</sup>",
+    "answer": 2
+  },{
+    "question": "Photochemical reaction which proceed only under the influence of light are the order:",
+    "choice1": "Zero",
+    "choice2": "First",
+    "choice3": "Second",
+    "choice4": "Third",
+    "answer": 1
+  }
+]

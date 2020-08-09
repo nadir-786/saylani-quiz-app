@@ -1,0 +1,16 @@
+{
+  "background_color": "white",
+  "description": "This is my new quiz app for Chemistry MCQs.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/che_icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Chemistry Quiz By Nadir Production",
+  "short_name": "Chemistry Quiz",
+  "start_url": "index.html",
+  "theme_color": "#ecf5ff"
+}

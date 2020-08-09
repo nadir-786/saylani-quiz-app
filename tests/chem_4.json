@@ -1,0 +1,320 @@
+[
+  {
+    "question": "The shell of an atom with higet value of \"n\" is known as",
+    "choice1": "Valence shell",
+    "choice2": "Inner shell",
+    "choice3": "Empty shell",
+    "choice4": "Filled shell",
+    "answer": 1
+  },
+  {
+    "question": "Unpaired electrons inthe valence shell which involve in bonding are known as:",
+    "choice1": "Valence Shell",
+    "choice2": "Bonding electrons",
+    "choice3": "Free electrons",
+    "choice4": "Conduction electrons",
+    "answer": 1
+  },
+  {
+    "question": "The attrctive force that holds atoms together in moleculars is termed as",
+    "choice1": "Chemical bond",
+    "choice2": "Ionic bond",
+    "choice3": "Covelant bond",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "How many types of chemical bonds are formed",
+    "choice1": "2",
+    "choice2": "3",
+    "choice3": "4",
+    "choice4": "5",
+    "answer": 2
+  },{
+    "question": "Which molecule has ionic bond",
+    "choice1": "NaCl",
+    "choice2": "H<sub>2</sub>O",
+    "choice3": "H<sub>2</sub>",
+    "choice4": "CHI",
+    "answer": 1
+  },{
+    "question": "Formation of MGO is a example of:",
+    "choice1": "Ionic bond",
+    "choice2": "Co-ordinate covalent bond",
+    "choice3": "Covalent bond",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "Which molecule has covalent bond?",
+    "choice1": "MgO",
+    "choice2": "NaCl",
+    "choice3": "HCL",
+    "choice4": "CaO",
+    "answer": 3
+  },{
+    "question": "Elements of I-A combine the elements of VII-A to form :",
+    "choice1": "Ionic bond",
+    "choice2": "Co-ordinate covalent bond",
+    "choice3": "Covalent bond",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "Nitrogen elements of V-A are combine with eachother to form:",
+    "choice1": "Single covalent bond",
+    "choice2": "Triple covalent bond",
+    "choice3": "Double convalent bond None of these",
+    "choice4": "None of these",
+    "answer": 2
+  },{
+    "question": "Oxygen elements of VI-A combine with each other to form:",
+    "choice1": "Single covalent bond",
+    "choice2": "Triple covalent bond",
+    "choice3": "Double convalent bond None of these",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Formation of NaCl molecular is an example of:",
+    "choice1": "Ionic bond",
+    "choice2": "Hydrogen bond",
+    "choice3": "Covalent bond",
+    "choice4": "Co-ordinant",
+    "answer": 1
+  },{
+    "question": "The crystal of ionic compounds are made up to:",
+    "choice1": "Ions",
+    "choice2": "Anions",
+    "choice3": "Cations",
+    "choice4": "Atoms",
+    "answer": 1
+  },{
+    "question": "A bond formed by the mutual sharing of electrons between two atoms is:",
+    "choice1": "Ionic bond",
+    "choice2": "Polar bond",
+    "choice3": "Covalent bond",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "Hydrogen elements are combine with each other to form",
+    "choice1": "Single convalent bond",
+    "choice2": "Triple covalent bond",
+    "choice3": "Dounle covalent nond",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Mostly elements of VII-A are combine with each other to form",
+    "choice1": "Single convalent bond",
+    "choice2": "Triple covalent bond",
+    "choice3": "Dounle covalent nond",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Which of the molecules has zero dipole moment:",
+    "choice1": "H<sub>2</sub>O",
+    "choice2": "NH<sub>3</sub>",
+    "choice3": "CH<sub>4</sub>",
+    "choice4": "CO<sub>2</sub>",
+    "answer": 3
+  },{
+    "question": "The distance b/w the nucleus of two atoms forming a conalent bond is called",
+    "choice1": "Bond enrgy",
+    "choice2": "Atomic radius",
+    "choice3": "Bond length",
+    "choice4": "Ionic radius",
+    "answer": 3
+  },{
+    "question": "The electronegativity differnce b/w two element is 1.2 e.v to form:",
+    "choice1": "Ionic bond",
+    "choice2": "Co-ordinate bond",
+    "choice3": "Covalent bond",
+    "choice4": "None of them",
+    "answer": 3
+  },{
+    "question": "The electronegativity differnce b/w two element is 1.9 e.v to form:",
+    "choice1": "Ionic bond",
+    "choice2": "Co-ordinate bond",
+    "choice3": "Covalent bond",
+    "choice4": "None of them",
+    "answer": 1
+  },{
+    "question": "Electronegativity differnce b/w two elements is zero to form",
+    "choice1": "Single covalent bond",
+    "choice2": "Triple covalent bond",
+    "choice3": "Double covalent bond",
+    "choice4": "None of these",
+    "answer": 4
+  },{
+    "question": "Electronegativity differnce b/w two elements is zero to form",
+    "choice1": "Non-polar covalent bond",
+    "choice2": "Co-ordinate covalent bond",
+    "choice3": "Double covalent bond",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Which of the following overlaps form the strong bond?",
+    "choice1": "(s-p) overlap",
+    "choice2": "(s-s) overlap",
+    "choice3": "(p-p) overlap",
+    "choice4": "All of these",
+    "answer": 3
+  },{
+    "question": "Which of the following overlaps form the weak bond?",
+    "choice1": "(s-p) overlap",
+    "choice2": "(s-s) overlap",
+    "choice3": "(p-p) overlap",
+    "choice4": "All of these",
+    "answer": 2
+  },{
+    "question": "The shape of s-orbital is:",
+    "choice1": "Tetrahedral",
+    "choice2": "Pyramidal",
+    "choice3": "Dumb-bell",
+    "choice4": "Spherical",
+    "answer": 4
+  },{
+    "question": "The shape of p-orbital is:",
+    "choice1": "Tetrahedral",
+    "choice2": "Pyramidal",
+    "choice3": "Dumb-bell",
+    "choice4": "Spherical",
+    "answer": 3
+  },{
+    "question": "Covalent bond generallu soluble in:",
+    "choice1": "Polar solvent",
+    "choice2": "Ionic solvent",
+    "choice3": "None-polar solvent",
+    "choice4": "none of these",
+    "answer": 1
+  },{
+    "question": "Covalent bonds are",
+    "choice1": "Un-directional",
+    "choice2": "Multi-directional",
+    "choice3": "Directional",
+    "choice4": "none of these",
+    "answer": 2
+  },{
+    "question": "Which of the molecule is double convalent bond?",
+    "choice1": "CHI",
+    "choice2": "CH<sup>4</sub>",
+    "choice3": "N<sup>2</sub>",
+    "choice4": "O<sup>2</sub>",
+    "answer": 4
+  },{
+    "question": "The total number of electrons that take part in forming bond in H<sup>2</sub> molecule is?",
+    "choice1": "2 electrons",
+    "choice2": "6 electrons",
+    "choice3": "4 electrons",
+    "choice4": "8 electrons",
+    "answer": 1
+  },{
+    "question": "The total number of electrons that take part in forming bond in N<sup>2</sub> molecule is?",
+    "choice1": "2 electrons",
+    "choice2": "6 electrons",
+    "choice3": "4 electrons",
+    "choice4": "8 electrons",
+    "answer": 2
+  },{
+    "question": "The total number of electrons that take part in forming bond in O<sup>2</sub> molecule is?",
+    "choice1": "2 electrons",
+    "choice2": "6 electrons",
+    "choice3": "4 electrons",
+    "choice4": "8 electrons",
+    "answer": 3
+  },{
+    "question": "The energy required to break one mole of bonds to form neutral atoms is:",
+    "choice1": "Bond energy",
+    "choice2": "Ionization potential",
+    "choice3": "Binding energy",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "The degree of polarity of a molecule is known as:",
+    "choice1": "Dipole moment",
+    "choice2": "Bond energy",
+    "choice3": "Moment arm",
+    "choice4": "Ionic character",
+    "answer": 4
+  },{
+    "question": "The H-Ci bond is:",
+    "choice1": "Ionic",
+    "choice2": "Polar",
+    "choice3": "Covalent",
+    "choice4": "None-polar",
+    "answer": 3
+  },{
+    "question": "CO<sub>2</sub> molecule has a dipole moment of:",
+    "choice1": "µ = 1.12",
+    "choice2": "µ = 3.02",
+    "choice3": "µ = 2.55",
+    "choice4": "µ =  zero",
+    "answer": 4
+  },{
+    "question": "The carbon atom ethyne is :",
+    "choice1": "Sp<sup>3</sup> hybridization",
+    "choice2": "Sp<sup></sup> hybridization",
+    "choice3": "Sp<sup>1</sup> hybridization",
+    "choice4": "None of them",
+    "answer": 2
+  },{
+    "question": "The ionic bond is :",
+    "choice1": "Uni-directional",
+    "choice2": "Bi-directional",
+    "choice3": "Non-directional",
+    "choice4": "None of these",
+    "answer": 3
+  },{
+    "question": "Which molecule has single covalent bond?",
+    "choice1": "HCL",
+    "choice2": "O<sub>2</sub>",
+    "choice3": "N<sub>2</sub>",
+    "choice4": "None of these",
+    "answer": 1
+  },{
+    "question": "Which molecule has triple covalent bond?",
+    "choice1": "CL<sub>2</sub>",
+    "choice2": "NaCl",
+    "choice3": "N<sub>2</sub>",
+    "choice4": "O<sub>2</sub>",
+    "answer": 3
+  },{
+    "question": "In CH<sub>4</sub> molecules the C-H bond is",
+    "choice1": "Single Covalent bond",
+    "choice2": "Double Covalent bond",
+    "choice3": "Triple Covelant bond",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "In C<sub>2</sub>H<sub>4</sub> molecules the C-C bond is",
+    "choice1": "Single Covalent bond",
+    "choice2": "Double Covalent bond",
+    "choice3": "Triple Covelant bond",
+    "choice4": "None of the above",
+    "answer": 2
+  },{
+    "question": "In C<sub>2</sub>H<sub>4</sub> molecules the C-H bond is",
+    "choice1": "Single Covalent bond",
+    "choice2": "Double Covalent bond",
+    "choice3": "Triple Covelant bond",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "In C<sub>2</sub>H<sub>2</sub> molecules the C-C bond is",
+    "choice1": "Single Covalent bond",
+    "choice2": "Double Covalent bond",
+    "choice3": "Triple Covelant bond",
+    "choice4": "None of the above",
+    "answer": 3
+  },{
+    "question": "In C<sub>2</sub>H<sub>2</sub> molecules the C-H bond is",
+    "choice1": "Single Covalent bond",
+    "choice2": "Double Covalent bond",
+    "choice3": "Triple Covelant bond",
+    "choice4": "None of the above",
+    "answer": 1
+  },{
+    "question": "NH<sub>4</sub><sup>+1</sub> ion is the example of:",
+    "choice1": "Ionic bond",
+    "choice2": "Covalent bond",
+    "choice3": "Co-ordinate Covalent",
+    "choice4": "Hydrogen bonding",
+    "answer": 3
+  }
+]

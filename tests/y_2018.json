@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Thr volume of 3.01 x 10<sup>23</suo> molecule of N<sub>2</sub> gas ath S.T.P will be:",
+    "choice1": "3dm<sup>3</sup>",
+    "choice2": "11.2dm<sup>3</sup>",
+    "choice3": "22.4dm<sup>3</sup>",
+    "choice4": "28dm<sup>3</sup>",
+    "answer": 2
+  },
+  {
+    "question": "The characteristics of 10<sup>3</sup> is:",
+    "choice1": "2",
+    "choice2": "3",
+    "choice3": "4",
+    "choice4": "5",
+    "answer": 2
+  },
+  {
+    "question": "if a = b ≠ c and α = β = γ = 90<sup>o</sup>, the crystal structure is:",
+    "choice1": "Cubic",
+    "choice2": "Tetragonal",
+    "choice3": "Orthorhombic",
+    "choice4": "Triclinic",
+    "answer": 2
+  },{
+    "question": "The rate of diffusion of CO<sub>2</sub> is equal to that of:",
+    "choice1": "CH<sub>4</sub>",
+    "choice2": "CO",
+    "choice3": "C<sub>3</sub>H<sub>4</sub>",
+    "choice4": "SO<sub>2</sub>",
+    "answer": 3
+  },{
+    "question": "The S.I unit of viscosity is:",
+    "choice1": "Poise",
+    "choice2": "Millipoise",
+    "choice3": "Centipoise",
+    "choice4": "N.s.m<sup>-2</sup>",
+    "answer": 4
+  },{
+    "question": "The maximum number of electron in a particular energy level is:",
+    "choice1": "2n<sup>2</sup>",
+    "choice2": "n<sup>2</sup>",
+    "choice3": "(2l+l)",
+    "choice4": "2(2l+l)",
+    "answer": 1
+  },{
+    "question": "The energy of each quantum of radiation is diectly proportional to its :",
+    "choice1": "Wavelength",
+    "choice2": "Frequency",
+    "choice3": "Wave number",
+    "choice4": "Source of energy",
+    "answer": 2
+  },{
+    "question": "These radioactive rays are non-material in nature:",
+    "choice1": "α rays",
+    "choice2": "β rays",
+    "choice3": "γ rays",
+    "choice4": "Canal rays",
+    "answer": 3
+  },{
+    "question": "The potential energy of an electron can be denoted by:",
+    "choice1": "Ze<sup>2</sup>/r<sup>2</sup>",
+    "choice2": "Ze/r",
+    "choice3": "Ze<sup>2</sup>/r",
+    "choice4": "_Ze<sup>2</sup>/r",
+    "answer": 4
+  },{
+    "question": "This molecule has the maximum bond angle:",
+    "choice1": "CS<sub>2</sub>",
+    "choice2": "NH<sub>3</sub>",
+    "choice3": "SO<sub>2</sub>",
+    "choice4": "H<sub>2</sub>O",
+    "answer": 1
+  },{
+    "question": "The energy of this bond is the greatest:",
+    "choice1": "CH<sub>4</sub>",
+    "choice2": "O<sub>3</sub>",
+    "choice3": "N<sub>2</sub>",
+    "choice4": "Cl<sub>2</sub>",
+    "answer": 3
+  },{
+    "question": "The dipole moment of this molecule is zero:",
+    "choice1": "NH<sub>3</sub>",
+    "choice2": "CO<sub>2</sub>",
+    "choice3": "H<sub>2</sub>O",
+    "choice4": "HCL",
+    "answer": 2
+  },{
+    "question": "This is not an extensive preoperty:",
+    "choice1": "Internal energy",
+    "choice2": "Enthalpy",
+    "choice3": "Density",
+    "choice4": "Entropy",
+    "answer": 3
+  },{
+    "question": "The equation for Ksp of CaF<sub>2</sub> is",
+    "choice1": "Ksp = [Ca<sup>+2</sup>][F<sub>2</sub><sup>-</sup>]<sup>2</sup>",
+    "choice2": "Ksp = [Ca<sup>++</sup>][F<sup>-</sup>]",
+    "choice3": "Ksp = [Ca<sup>++</sup>][F<sub>2</sub>]",
+    "choice4": "Ksp = [Ca<sup>++</sup>][F<sub>2</sub>]",
+    "answer": 1
+  },{
+    "question": "This join has the greatest degree of hydration:",
+    "choice1": "Na<sup>+</sup>",
+    "choice2": "Mg<sup>+2</sup>",
+    "choice3": "Al<sup>+#</sup>",
+    "choice4": "K<sup>+</sup>",
+    "answer": 3
+  },{
+    "question": "The molarity of a solution containing 53g NA<sub>2</sub>CO<sub>3</sub> dissolved in 1dm<sup>3</sup> solution will be",
+    "choice1": "0.1",
+    "choice2": "0.01",
+    "choice3": "0.02",
+    "choice4": "0.05",
+    "answer": 4
+  },{
+    "question": "The reaction 2NO<sub>2</sub> ===> 2NO + O<sub>2</sub> is of:",
+    "choice1": "zero order",
+    "choice2": "1st order",
+    "choice3": "2nd order",
+    "choice4": "3rd order",
+    "answer": 3
+  }
+]

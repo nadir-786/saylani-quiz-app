@@ -1,0 +1,124 @@
+[
+  {
+    "question": "The bond angle is maximum in this molecule:",
+    "choice1": "CH<sub>3</sub>",
+    "choice2": "CO<sub>2</sub>",
+    "choice3": "H<sub>2</sub>O",
+    "choice4": "NH<sub>3</sub>",
+    "answer": 2
+  },
+  {
+    "question": "Gases behave ideally at these conditions:",
+    "choice1": "High pressure and high temperatures",
+    "choice2": "High pressure and low temperature",
+    "choice3": "Low pressures and high temperature",
+    "choice4": "Low pressure and low temperature",
+    "answer": 3
+  },
+  {
+    "question": "Gass is a/an:",
+    "choice1": "Crystalline solid",
+    "choice2": "Amorphous solid",
+    "choice3": "Covlent solid",
+    "choice4": "Ionic solid",
+    "answer": 2
+  },{
+    "question": "Bond energy is the greatest for :",
+    "choice1": "CH<sub>3</sub>",
+    "choice2": "O<sub>2</sub>",
+    "choice3": "N<sub>2</sub>",
+    "choice4": "Cl<sub>2</sub>",
+    "answer": 3
+  },{
+    "question": "The bulk properties of a system,which are easily measurable, are known as:",
+    "choice1": "Microscopic properties",
+    "choice2": "Macroscopic properties",
+    "choice3": "Chemical properties",
+    "choice4": "Physical properties",
+    "answer": 2
+  },{
+    "question": "The characteristics of 10<sup>3</sup> is :",
+    "choice1": "2",
+    "choice2": "3",
+    "choice3": "4",
+    "choice4": "5",
+    "answer": 2
+  },{
+    "question": "This molecule has zero dipole",
+    "choice1": "CH<sub>3</sub>",
+    "choice2": "CO<sub>2</sub>",
+    "choice3": "H<sub>2</sub>O",
+    "choice4": "NH<sub>3</sub>",
+    "answer": 2
+  },{
+    "question": "The molarity of a solution containing 20g od NaOH dissolved into 1 dm<sup>3</sup> solution will be:",
+    "choice1": "0.1",
+    "choice2": "0.5",
+    "choice3": "1",
+    "choice4": "2",
+    "answer": 2
+  },{
+    "question": "The Octet ruleis not valid for this molecule:",
+    "choice1": "N<sub>2</sub>",
+    "choice2": "CO<sub>2</sub>",
+    "choice3": "O<sub>2</sub>",
+    "choice4": "H<sub>2</sub>",
+    "answer": 4
+  },{
+    "question": "The yeild of aminia is Haber's processis favoured by:",
+    "choice1": "High pressure and high temperature",
+    "choice2": "High pressure and low temperature",
+    "choice3": "Low pressure and low temperature",
+    "choice4": "Low pressure and high temperature",
+    "answer": 2
+  },{
+    "question": "This ion has greatest degree of hydration:",
+    "choice1": "Na<sup>+</sup>",
+    "choice2": "Mg<sup>+2</sup>",
+    "choice3": "Al<sup>+3</sup>",
+    "choice4": "K<sup>+</sup>",
+    "answer": 3
+  },{
+    "question": "The volume of 3.01 x 10<sup>23</sup> molecule of N<sub>2</sub> gas at S.T.P will be:",
+    "choice1": "30 dm<sup>3</sup>",
+    "choice2": "11.2 dm<sup>3</sup>",
+    "choice3": "22.4 dm<sup>3</sup>",
+    "choice4": "28 dm<sup>3</sup>",
+    "answer": 3
+  },{
+    "question": "Rate =K[NH<sub>3</sub>]<sup>2</sup>. Keeping the other conditional same, if the concentration of NH<sub>3</sub> is increased by four times, then initail rate of reaction X will be",
+    "choice1": "2X",
+    "choice2": "3X",
+    "choice3": "8X",
+    "choice4": "16X",
+    "answer": 4
+  },{
+    "question": "Thsi is not extensive property:",
+    "choice1": "Entropy",
+    "choice2": "Viscosity",
+    "choice3": "Enthalpy",
+    "choice4": "Internal Energy",
+    "answer": 2
+  },{
+    "question": "The extent of reaction will be maximum for this Kc value:",
+    "choice1": "10<sup>-13</sup>",
+    "choice2": "0.1",
+    "choice3": "10",
+    "choice4": "10<sup>3</sup>",
+    "answer": 4
+  },{
+    "question": "This Hyrogen halide has the highest percentage of ionic character",
+    "choice1": "HF",
+    "choice2": "HCL",
+    "choice3": "HBr",
+    "choice4": "HI",
+    "answer": 1
+  },{
+    "question": "These have low values of activation energy:",
+    "choice1": "Fast reaction",
+    "choice2": "Moderater reaction",
+    "choice3": "Ionic reaction",
+    "choice4": "Slow reaction",
+    "answer": 1
+  }
+]
